@@ -1,0 +1,140 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 504
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Australia ; Times: 14
+	Country: Mexico ; Times: 3
+	Country: Panama ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 30
+	Country: Malaysia ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 6
+	Date: 2016-05-12 ; Times: 15
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 3
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "LSUMZ 10455" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "Cygnus olor tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:sylviolus genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:olivaceus genus:Rhynchocyclus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Neophema tissue:1" ; Times: 2
+	Query: "Eupherusa cyanophrys" ; Times: 1
+	Query: "geositta poeciloptera" ; Times: 1
+	Query: "Plegadis falcinellus tissue:1" ; Times: 1
+	Query: "pyrrhura perlata" ; Times: 2
+	Query: "selasphorus ardens" ; Times: 3
+	Query: "specificepithet:whitneyi genus:Micrathene tissue:1" ; Times: 1
+	Query: "heliangelus regalis" ; Times: 1
+	Query: "specificepithet:musica genus:Euphonia tissue:1" ; Times: 2
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "neophema tissue:1" ; Times: 13
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "batrachostomus cornutus" ; Times: 1
+	Query: "specificepithet:mesochrysa genus:Euphonia tissue:1" ; Times: 1
+	Query: "Numida tissue:1" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:Euphonia tissue:1" ; Times: 1
+	Query: "Rallus elegans country:&#34;Cuba&#34;" ; Times: 1
+	Query: "Calliphlox mitchellii" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "type:specimen specificepithet:assimilis genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "batrachostomus poliolophus" ; Times: 2
+	Query: "type:specimen specificepithet:sulphurescens genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "64234" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "specificepithet:beckeri genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "stigmatura napensis" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "calliphlox mitchellii" ; Times: 1
+	Query: "Terenura spodioptila" ; Times: 2
+	Query: "Lampornis calolaemus" ; Times: 2
+	Query: "genus:Accipiter institutioncode:LSUMZ tissue:1" ; Times: 2
+	Query: "Coccyzus erythropthalmus tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 327 download events in this period)
+Total number of records downloaded: 1470
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 6
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Malacopteron" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "striata stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
