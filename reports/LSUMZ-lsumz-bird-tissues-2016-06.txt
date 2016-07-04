@@ -1,0 +1,283 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 202
+Number of records retrieved in searches: 1642
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 50
+	Country: Honduras ; Times: 3
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 6
+	Country: Singapore ; Times: 6
+	Country: Costa Rica ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 94
+	Country: Denmark ; Times: 22
+	Country: South Korea ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 8
+	Date: 2016-06-09 ; Times: 9
+	Date: 2016-06-22 ; Times: 6
+	Date: 2016-06-21 ; Times: 13
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 7
+	Date: 2016-06-04 ; Times: 8
+	Date: 2016-06-07 ; Times: 7
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 12
+	Date: 2016-06-03 ; Times: 5
+	Date: 2016-06-02 ; Times: 19
+	Date: 2016-06-23 ; Times: 10
+	Date: 2016-06-08 ; Times: 4
+	Date: 2016-06-18 ; Times: 5
+	Date: 2016-06-19 ; Times: 7
+	Date: 2016-06-16 ; Times: 13
+	Date: 2016-06-17 ; Times: 23
+	Date: 2016-06-14 ; Times: 16
+	Date: 2016-06-15 ; Times: 7
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 10
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "57529" ; Times: 1
+	Query: "Marmaronetta tissue:1" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Dicrurus Ghana LSU" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "Hemitriccus margaritaceiventer tissue:1" ; Times: 2
+	Query: "aves (Haiti) tissue:1" ; Times: 1
+	Query: "Icterus continent:South America tissue:1" ; Times: 2
+	Query: "radjah tissue:1" ; Times: 1
+	Query: "trogon rufus brazil" ; Times: 1
+	Query: "cairina tissue:1" ; Times: 1
+	Query: "thraupis palmarum type:specimen institutioncode:LSUMZ" ; Times: 1
+	Query: "Saltator atriceps tissue:1" ; Times: 1
+	Query: "francolinus type:specimen tissue:1" ; Times: 1
+	Query: "anas specularis tissue:1" ; Times: 1
+	Query: "LSU 16657" ; Times: 1
+	Query: "Molothrus ater stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "francolinus erckelii" ; Times: 1
+	Query: "tadorna tissue:1" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phacellodomus rufifrons tissue:1" ; Times: 2
+	Query: "38682" ; Times: 1
+	Query: "phalaropus tricolor tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:flaviventris genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 5
+	Query: "Drepanididae type:specimen tissue:1" ; Times: 1
+	Query: "Basileuterus flaveolus tissue:1" ; Times: 1
+	Query: "specificepithet:pictum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "Geothlypis poliocephala tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:pictum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Numenius americanus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:FUMIFRONS genus:todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:beecheii genus:Cyanocorax tissue:1" ; Times: 1
+	Query: "micromonacha lanceolata" ; Times: 1
+	Query: "phacellodomus rufifrons tissue:1" ; Times: 5
+	Query: "sericocaudatus" ; Times: 1
+	Query: "querula purpurata" ; Times: 5
+	Query: "aegolius harrisii" ; Times: 2
+	Query: "34808" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "phytotoma raimondii" ; Times: 3
+	Query: "numenius tissue:1" ; Times: 2
+	Query: "Plectropterus tissue:1" ; Times: 2
+	Query: "Sarkidiornis tissue:1" ; Times: 3
+	Query: "Ramphocinclus brachyurus" ; Times: 1
+	Query: "Selasphorus ardens type:specimen" ; Times: 3
+	Query: "Cereopsis tissue:1" ; Times: 1
+	Query: "francolinus ahantensis" ; Times: 2
+	Query: "cracidae mitu mitu" ; Times: 1
+	Query: "type:specimen specificepithet:gilvicollis genus:Micrastur class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ortalis type:specimen tissue:1" ; Times: 1
+	Query: "Parkesia type:specimen stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Philentoma tissue:1" ; Times: 1
+	Query: "type:specimen (Culicivora caudacuta)" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "alipiopsitta xanthops" ; Times: 6
+	Query: "Ortalis vetula type:specimen tissue:1" ; Times: 1
+	Query: "Mimus longicaudatus" ; Times: 1
+	Query: "LSU 6645" ; Times: 1
+	Query: "Pharomachrus pavoninus brazil" ; Times: 1
+	Query: "Haiti (aves) tissue:1" ; Times: 1
+	Query: "Asio stygius" ; Times: 2
+	Query: "Hemipus tissue:1" ; Times: 1
+	Query: "monasa morphoeus tissue:1" ; Times: 1
+	Query: "Crax globulosa tissue:1" ; Times: 1
+	Query: "Pteronetta tissue:1" ; Times: 1
+	Query: "Conirostrum margaritae tissue:1" ; Times: 1
+	Query: "strix aluco tissue:1" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Bias Aves tissue:1" ; Times: 2
+	Query: "lsu 30332" ; Times: 1
+	Query: "LSUMZ 45433" ; Times: 1
+	Query: "neochen tissue:1" ; Times: 1
+	Query: "LSUMZ 46432" ; Times: 1
+	Query: "Conirostrum leucogenys tissue:1" ; Times: 1
+	Query: "lsumz callipepla squamata" ; Times: 1
+	Query: "coscoroba tissue:1" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "LSU 36645" ; Times: 2
+	Query: "Molothrus ater stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 2
+	Query: "1831 lsumz" ; Times: 2
+	Query: "phacellodomus tissue:1" ; Times: 1
+	Query: "LSU 24569" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 1
+	Query: "Megascops kennicotti" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Huanuco&#34; country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "lsumz 7655" ; Times: 2
+	Query: "lsumz 7654" ; Times: 2
+	Query: "lsumz callipepla" ; Times: 1
+	Query: "lsumz 7656" ; Times: 1
+	Query: "bambusicola type:specimen tissue:1" ; Times: 1
+	Query: "Lorius lory tissue:1" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "LSU 21373" ; Times: 1
+	Query: "Cyanocorax yncas tissue:1" ; Times: 1
+	Query: "neomorphus" ; Times: 1
+	Query: "type:specimen specificepithet:poliocephalus genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "crax globulosa" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "LSUMZ 45410" ; Times: 1
+	Query: "Porzana flaviventer tissue:1" ; Times: 1
+	Query: "LSU 11885" ; Times: 1
+	Query: "type:specimen specificepithet:assimilis genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "trogon violaceus amazonas" ; Times: 1
+	Query: "LSU 27287" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "Conirostrum speciosum tissue:1" ; Times: 1
+	Query: "specificepithet:fuscipenne genus:Philydor" ; Times: 2
+	Query: "selasphorus ardens" ; Times: 3
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "setophaga ruticilla type:specimen tissue:1" ; Times: 1
+	Query: "LSU 12138" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "LSUMZ 36645" ; Times: 1
+	Query: "lsumz 1831" ; Times: 1
+	Query: "Numenius phaeopus phaeopus tissue:1" ; Times: 2
+	Query: "Conirostrum bicolor tissue:1" ; Times: 2
+	Query: "Mimus triurus" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Numenius phaeopus tissue:1" ; Times: 1
+	Query: "specificepithet:chrysocrotaphum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "specificepithet:gundlachii genus:vireo tissue:1" ; Times: 1
+	Query: "Selasphorus type:specimen country:&#34;Panama&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "Tachyeres tissue:1" ; Times: 3
+	Query: "cypseloides cryptus class:aves" ; Times: 1
+	Query: "type:specimen specificepithet:chrysocrotaphum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Bias musicus tissue:1" ; Times: 1
+	Query: "francolinus bicalcaratus" ; Times: 1
+	Query: "LSUMZ 55386" ; Times: 1
+	Query: "Toxostoma ocellatum" ; Times: 1
+	Query: "Thalassornis tissue:1" ; Times: 2
+	Query: "Nettapus tissue:1" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "LSU 25070" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1052 download events in this period)
+Total number of records downloaded: 1366
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 15
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 6
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 7
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 8
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Platysteira tissue:1" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Conirostrum leucogenys tissue:1" ; Times: 1
+	Query: "Platysteiridae tissue:1" ; Times: 1
+	Query: "aegolius harrisii" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Huanuco&#34; country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Philentoma tissue:1" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 1
+	Query: "Conirostrum speciosum tissue:1" ; Times: 1
+	Query: "specificepithet:fuscipenne genus:Philydor" ; Times: 1
+	Query: "goura" ; Times: 2
+	Query: "lanius ludovicianus baja california" ; Times: 2
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Conirostrum bicolor tissue:1" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "type:specimen (Culicivora caudacuta)" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Hemipus tissue:1" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "Prionops tissue:1" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Bias musicus tissue:1" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Pachyramphus albogriseus" ; Times: 1
+	Query: "stateprovince:&#34;Huanuco&#34; country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Momotus momota tissue:1" ; Times: 1
+
+
+End of report.
