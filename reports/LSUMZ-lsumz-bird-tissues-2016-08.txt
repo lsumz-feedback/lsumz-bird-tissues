@@ -1,0 +1,359 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 339
+Number of records retrieved in searches: 2034
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 91
+	Country: United States ; Times: 237
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 8
+	Date: 2016-08-11 ; Times: 11
+	Date: 2016-08-12 ; Times: 41
+	Date: 2016-08-13 ; Times: 4
+	Date: 2016-08-14 ; Times: 21
+	Date: 2016-08-15 ; Times: 5
+	Date: 2016-08-16 ; Times: 9
+	Date: 2016-08-17 ; Times: 10
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-19 ; Times: 29
+	Date: 2016-08-30 ; Times: 35
+	Date: 2016-08-31 ; Times: 31
+	Date: 2016-08-29 ; Times: 13
+	Date: 2016-08-28 ; Times: 7
+	Date: 2016-08-25 ; Times: 20
+	Date: 2016-08-24 ; Times: 19
+	Date: 2016-08-27 ; Times: 28
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-23 ; Times: 19
+	Date: 2016-08-22 ; Times: 12
+	Date: 2016-08-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Merops nubicus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:hardyi class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Knipolegus aterrimus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:rufus genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus gracilirostris tissue:1" ; Times: 2
+	Query: "amazilia chionopectus" ; Times: 1
+	Query: "terpsiphone rufiventer tissue:1" ; Times: 1
+	Query: "phylloscopus occipitalis" ; Times: 1
+	Query: "alethe diademata tissue:1" ; Times: 2
+	Query: "Eumomota superciliosa tissue:1" ; Times: 1
+	Query: "Xolmis irupero tissue:1" ; Times: 1
+	Query: "type:specimen genus:Dromococcyx class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Platylophus galericulatus tissue:1" ; Times: 1
+	Query: "Catharus fuscater tissue:1" ; Times: 2
+	Query: "Platylophus galericulatus institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Capito quinticolor" ; Times: 4
+	Query: "type:specimen specificepithet:chapmani class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:philippii genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Contopus nigrescens" ; Times: 1
+	Query: "type:specimen genus:opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "eurystomus gularis tissue:1" ; Times: 1
+	Query: "Catharus dryas institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "type:specimen genus:topaza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:brachyura genus:CHAETURA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Merops persicus tissue:1" ; Times: 1
+	Query: "Electron platyrhynchum tissue:1" ; Times: 2
+	Query: "type:specimen genus:momotus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Merops gularis tissue:1" ; Times: 1
+	Query: "andropadus gracilirostris tissue:1" ; Times: 2
+	Query: "pogoniulus atroflavus tissue:1" ; Times: 1
+	Query: "type:specimen genus:Brachygalba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:climacocerca class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:8462 institutioncode:LSUMZ" ; Times: 1
+	Query: "indicator maculatus tissue:1" ; Times: 1
+	Query: "type:specimen genus:guira class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:10455 institutioncode:LSUMZ" ; Times: 3
+	Query: "tissue:1 Eurystomus gularis" ; Times: 1
+	Query: "Nonnula ruficapilla brazil" ; Times: 1
+	Query: "Todus todus tissue:1" ; Times: 3
+	Query: "catalognumber:8693 institutioncode:LSUMZ" ; Times: 1
+	Query: "phacellodomus rufifrons tissue:1" ; Times: 1
+	Query: "turtur brehmeri tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:tectus genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:fimbriata genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:16668 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:geotrygon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Momotus aequatorialis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:versicolor genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "andropadus curvirostris tissue:1" ; Times: 2
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "muscicapa ussheri tissue:1" ; Times: 1
+	Query: "Pseudoseisura cristata tissue:1" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 1
+	Query: "type:specimen specificepithet:PUSILLUS genus:CHORDEILES class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:calliphlox tissue:1" ; Times: 1
+	Query: "CORYTHAEOLA CRISTATA tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:bourcieri genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen genus:pulsatrix class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:16669 institutioncode:LSUMZ" ; Times: 1
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:viridis genus:trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gbifdatasetid:fc003253-5eee-414e-84c8-817e12bdb708 Ptilostomus afer" ; Times: 1
+	Query: "specificepithet:flammula genus:Selasphorus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:malacoptila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "harpactes whiteheadi" ; Times: 13
+	Query: "catalognumber:31579 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:fanny genus:myrtis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:pella class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus ustulatus institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "phodilus badius" ; Times: 1
+	Query: "Selasphorus ardens type:specimen" ; Times: 1
+	Query: "Catharus aurantiirostris tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:fusca genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mandingoa nitidula tissue:1" ; Times: 1
+	Query: "type:specimen genus:Campylopterus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "platysmurus institutioncode:LSUMZ" ; Times: 3
+	Query: "catalognumber:21304 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:leucogastra genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "64030" ; Times: 1
+	Query: "Icterus graceannae tissue:1" ; Times: 1
+	Query: "Paroaria tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:scintilla genus:Selasphorus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:dea genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ani genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:8542 institutioncode:LSUMZ" ; Times: 2
+	Query: "type:specimen specificepithet:MAJOR genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:scintilla genus:Selasphorus tissue:1" ; Times: 2
+	Query: "coracina azurea tissue:1" ; Times: 1
+	Query: "catalognumber:34000 institutioncode:LSUMZ" ; Times: 2
+	Query: "type:specimen genus:Nyctidromus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "eupherusa poliocerca" ; Times: 16
+	Query: "Icterus cayanensis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:MELANOGASTER genus:Piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "baeopogon indicator tissue:1" ; Times: 2
+	Query: "LSUMZ 8904" ; Times: 1
+	Query: "Xiphocolaptes major tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:surrucura genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:31577 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:lugubris genus:Brachygalba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phyllastrephus albigularis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:largipennis genus:Campylopterus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Merops albicollis tissue:1" ; Times: 2
+	Query: "Catharus fuscater Panama" ; Times: 1
+	Query: "harpactes reinwardtii" ; Times: 8
+	Query: "type:specimen specificepithet:viridis genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:vesper genus:rhodopis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:plumbea genus:patagioenas class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gymnobucco peli tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:spinicauda class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:8543 institutioncode:LSUMZ" ; Times: 2
+	Query: "bias musicus tissue:1" ; Times: 1
+	Query: "Pseudoseisura tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:acutipennis genus:Chordeiles class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:striolatus genus:Nystalus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:ardens genus:Selasphorus tissue:1" ; Times: 1
+	Query: "&#34;ammodramus nelsoni&#34; type:specimen tissue:1" ; Times: 1
+	Query: "myrmia micrura" ; Times: 25
+	Query: "type:specimen specificepithet:cora genus:thaumastura tissue:1" ; Times: 1
+	Query: "Pseudoseisura lophotes tissue:1" ; Times: 1
+	Query: "phyllastrephus icterinus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:melanogaster genus:Piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Heteralocha" ; Times: 2
+	Query: "type:specimen specificepithet:melanurus genus:trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:geotrygon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "muscicapa sethsmithi tissue:1" ; Times: 1
+	Query: "pogoniulus subsulphureus tissue:1" ; Times: 1
+	Query: "malimbus nitens tissue:1" ; Times: 1
+	Query: "Todus mexicanus tissue:1" ; Times: 2
+	Query: "LSUMZ 35375" ; Times: 1
+	Query: "LSUMZ 35376" ; Times: 1
+	Query: "LSUMZ 35377" ; Times: 1
+	Query: "anthreptes seimundi tissue:1" ; Times: 1
+	Query: "fraseria ocreata tissue:1" ; Times: 1
+	Query: "type:specimen genus:Opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:cinereiventris genus:chaetura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:19240 institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:passerina genus:Columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Baryphthengus martii tissue:1" ; Times: 1
+	Query: "type:specimen genus:tachornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:leucopterus genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34; tissue:1" ; Times: 1
+	Query: "trochilidae institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:micrura genus:myrmia tissue:1" ; Times: 1
+	Query: "Catharus frantzii tissue:1" ; Times: 2
+	Query: "megascops asio tissue:1" ; Times: 2
+	Query: "pogoniulus scolopaceus tissue:1" ; Times: 1
+	Query: "specificepithet:evelynae genus:Calliphlox tissue:1" ; Times: 1
+	Query: "type:specimen genus:microstilbon tissue:1" ; Times: 1
+	Query: "malimbus rubricollis tissue:1" ; Times: 1
+	Query: "psittacus erithacus tissue:1" ; Times: 1
+	Query: "catalognumber:20877 institutioncode:LSUMZ" ; Times: 1
+	Query: "Catharus aurantiirostris institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Merops viridis tissue:1" ; Times: 1
+	Query: "type:specimen genus:MEGASCOPS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Paroaria gularis tissue:1" ; Times: 1
+	Query: "catalognumber:21888 institutioncode:LSUMZ" ; Times: 1
+	Query: "phyllastrephus albigularis institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:subvinacea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Paroaria capitata tissue:1" ; Times: 1
+	Query: "type:specimen genus:Nyctiphrynus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:furcata genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "type:specimen specificepithet:GRISEUS genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:caprimulgus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "halcyon malimbica tissue:1" ; Times: 1
+	Query: "catalognumber:26887 institutioncode:LSUMZ" ; Times: 2
+	Query: "Selasphorus sasin tissue:1" ; Times: 1
+	Query: "gbifdatasetid:fc003253-5eee-414e-84c8-817e12bdb708" ; Times: 2
+	Query: "71290" ; Times: 1
+	Query: "atthis ellioti" ; Times: 1
+	Query: "type:specimen genus:lurocalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus fuscater institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "type:specimen specificepithet:perspicillata genus:pulsatrix class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:squalidus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sasia africana tissue:1" ; Times: 1
+	Query: "Merops muelleri" ; Times: 2
+	Query: "cercotrichas leucosticta tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:phasianellus genus:Dromococcyx class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:16941 institutioncode:LSUMZ" ; Times: 1
+	Query: "Electron carinatum tissue:1" ; Times: 3
+	Query: "type:specimen specificepithet:ordii genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phegornis" ; Times: 1
+	Query: "camaroptera chloronota tissue:1" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:tamatia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "nicator chloris tissue:1" ; Times: 1
+	Query: "type:specimen genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Stigmatura budytoides tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:watsonii class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:chaetura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "oriolus brachyrhynchus tissue:1" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 2
+	Query: "trochilidae type:specimen institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:albirostris genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Pipra mentalis 18078" ; Times: 1
+	Query: "type:specimen specificepithet:hispidus genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:13109 institutioncode:LSUMZ" ; Times: 1
+	Query: "alcedo leucogaster tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:bracteatus genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:14406 institutioncode:LSUMZ" ; Times: 1
+	Query: "gymnobucco calvus tissue:1" ; Times: 1
+	Query: "Catharus dryas tissue:1" ; Times: 2
+	Query: "Pseudoseisura gutturalis tissue:1" ; Times: 1
+	Query: "Merops pusillus tissue:1" ; Times: 1
+	Query: "andropadus virens tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:pavoninus genus:Dromococcyx class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Nothura boraquira tissue:1" ; Times: 2
+	Query: "Pseudoseisura unirufa tissue:1" ; Times: 1
+	Query: "clamator coromandus" ; Times: 2
+	Query: "Todus multicolor tissue:1" ; Times: 2
+	Query: "tauraco macrorhynchus tissue:1" ; Times: 1
+	Query: "catalognumber:21305 institutioncode:LSUMZ" ; Times: 1
+	Query: "muscicapa comitata tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:cinereiventris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "thalurania fannyi" ; Times: 3
+	Query: "Paradisaea rubra tissue:1" ; Times: 1
+	Query: "tissue:1 Coracias cyanogaster" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34; tissue:1" ; Times: 3
+	Query: "lampornis cinereicauda" ; Times: 1
+	Query: "andropadus gracilis tissue:1" ; Times: 2
+	Query: "andropadus latirostris tissue:1" ; Times: 2
+	Query: "dicrurus atripennis tissue:1" ; Times: 1
+	Query: "selasphorus ardens" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 924 download events in this period)
+Total number of records downloaded: 2082
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 19
+	Country: United States ; Times: 22
+	Country: Colombia ; Times: 3
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 4
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-25 ; Times: 11
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 14
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 3
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "&#34;ammodramus nelsoni&#34; type:specimen tissue:1" ; Times: 1
+	Query: "Myophonus" ; Times: 1
+	Query: "Paroaria capitata tissue:1" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "Paroaria gularis tissue:1" ; Times: 1
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "Pseudoseisura lophotes tissue:1" ; Times: 1
+	Query: "Aratinga acuticaudata tissue:1" ; Times: 1
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:chrysops genus:zimmerius" ; Times: 2
+	Query: "cistothorus palustris tissue:1" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Todus todus tissue:1" ; Times: 1
+	Query: "cistothorus platensis tissue:1" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "Stigmatura budytoides tissue:1" ; Times: 1
+	Query: "Colombia Aves Santander" ; Times: 1
+	Query: "Icterus graceannae tissue:1" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+	Query: "Furcifer tissue:1" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Icterus cayanensis tissue:1" ; Times: 1
+	Query: "Suiriri tissue:1" ; Times: 1
+	Query: "Paroaria coronata tissue:1" ; Times: 1
+	Query: "Nothura boraquira tissue:1" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Xiphocolaptes major tissue:1" ; Times: 1
+	Query: "Knipolegus orenocensis tissue:1" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Pseudoseisura unirufa tissue:1" ; Times: 1
+	Query: "Pseudoseisura cristata tissue:1" ; Times: 1
+	Query: "Phegornis" ; Times: 1
+
+
+End of report.
