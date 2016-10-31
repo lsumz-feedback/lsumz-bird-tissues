@@ -1,0 +1,213 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 895
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: United States ; Times: 73
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 10
+	Date: 2016-09-12 ; Times: 4
+	Date: 2016-09-11 ; Times: 4
+	Date: 2016-09-10 ; Times: 8
+	Date: 2016-09-08 ; Times: 7
+	Date: 2016-09-09 ; Times: 11
+	Date: 2016-09-14 ; Times: 29
+	Date: 2016-09-04 ; Times: 3
+	Date: 2016-09-05 ; Times: 4
+	Date: 2016-09-06 ; Times: 14
+	Date: 2016-09-07 ; Times: 13
+	Date: 2016-09-01 ; Times: 16
+	Date: 2016-09-02 ; Times: 4
+	Date: 2016-09-03 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Merops nubicus tissue:1" ; Times: 1
+	Query: "synallaxis stictothorax type:specimen tissue:1" ; Times: 1
+	Query: "Hemispingus superciliaris type:specimen tissue:1" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 29
+	Query: "&#34;Philetairus socius&#34; tissue:1" ; Times: 1
+	Query: "genus:Chaetocercus institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "glaucidium type:specimen tissue:1" ; Times: 1
+	Query: "Pulsatrix perspicillata brazil" ; Times: 1
+	Query: "Megascops roboratus type:specimen tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:ruficapilla genus:Nonnula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Glaucidium peruanum type:specimen tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:vitellinus genus:Ramphastos class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Merops persicus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:reinwardtii genus:selenidera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:gouldii genus:selenidera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "indicator maculatus tissue:1" ; Times: 1
+	Query: "Arremon taciturnus lsumz" ; Times: 1
+	Query: "specificepithet:berlepschi tissue:1" ; Times: 1
+	Query: "&#34;Malimbus rubricollis&#34; tissue:1" ; Times: 1
+	Query: "Megascops koepckeae type:specimen" ; Times: 2
+	Query: "82991" ; Times: 1
+	Query: "&#34;Ploceus velatus&#34; tissue:1" ; Times: 1
+	Query: "&#34;Sporopipes squamifrons&#34; tissue:1" ; Times: 1
+	Query: "Todus todus tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:beauharnaesii genus:Pteroglossus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;Quelea erythrops&#34; tissue:1" ; Times: 1
+	Query: "hemispingus superciliaris type:specimen tissue:1" ; Times: 2
+	Query: "9759 class:Aves institutioncode:LSUMZ" ; Times: 1
+	Query: "halcyon malimbica tissue:1" ; Times: 1
+	Query: "genus:Myrmia institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "specificepithet:flammula genus:Selasphorus tissue:1" ; Times: 1
+	Query: "agelaioides tissue:1" ; Times: 1
+	Query: "megascops petersoni type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:aurifrons genus:picumnus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:calliphlox tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:scintilla genus:Selasphorus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:dayi genus:capito class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:scintilla genus:Selasphorus tissue:1" ; Times: 1
+	Query: "chalybea tissue:1" ; Times: 1
+	Query: "Harpagus bidentatus institutioncode:LSUMZ" ; Times: 1
+	Query: "type:specimen specificepithet:ardens genus:Selasphorus tissue:1" ; Times: 1
+	Query: "garleppi type:specimen (Compsospiza OR Compsocompa OR Poospiza)" ; Times: 1
+	Query: "Megascops roboratus tissue:1" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "type:specimen specificepithet:culik genus:selenidera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "poospiza ornata type:specimen" ; Times: 1
+	Query: "specificepithet:SCINTILLA genus:Selasphorus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:flammula genus:Selasphorus tissue:1" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "agelaioides" ; Times: 1
+	Query: "megascops roboratus type:specimen" ; Times: 1
+	Query: "genus:Thaumastura tissue:1" ; Times: 1
+	Query: "&#34;Ploceus rubiginosus&#34; tissue:1" ; Times: 1
+	Query: "glaucidium peruanum type:specimen" ; Times: 1
+	Query: "specificepithet:ardens genus:Selasphorus tissue:1" ; Times: 3
+	Query: "type:specimen specificepithet:rubecula genus:Nonnula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;Icterus icterus&#34; tissue:1" ; Times: 1
+	Query: "galloperdix lunulata" ; Times: 1
+	Query: "&#34;Malimbus nitens&#34; tissue:1" ; Times: 1
+	Query: "ceyx lecontei tissue:1" ; Times: 1
+	Query: "LSUMZ 9907" ; Times: 2
+	Query: "megascops roboratus" ; Times: 1
+	Query: "ramphocelus passerinii institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Rhodopis institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "cherriei tissue:1" ; Times: 3
+	Query: "platysteira castanea tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:rufa genus:Malacoptila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;Ploceus luteolus&#34; tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:nattereri genus:selenidera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Dendroica dominica Missouri type:specimen" ; Times: 1
+	Query: "myioborus cardonai type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:morphoeus genus:monasa class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Glaucidium hardyi brazil" ; Times: 1
+	Query: "Merops viridis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:Malacoptila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Megascops watsonii brazil" ; Times: 1
+	Query: "21963" ; Times: 1
+	Query: "type:specimen specificepithet:richardsoni genus:Eubucco class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:aegithaloides genus:Leptasthenura tissue:1" ; Times: 1
+	Query: "LSUMZ 1030" ; Times: 1
+	Query: "type:specimen specificepithet:aurovirens genus:capito class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pipra mentalis costa rica institutioncode:LSUMZ" ; Times: 2
+	Query: "type:specimen specificepithet:ajaja genus:Platalea institutioncode:LSUMZ" ; Times: 1
+	Query: "&#34;Ploceus cucullatus&#34; tissue:1" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 1
+	Query: "type:specimen specificepithet:tucanus genus:Ramphastos class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "alcedo leucogaster tissue:1" ; Times: 1
+	Query: "type:specimen genus:Chelidoptera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Glaucidium peruanum tissue:1" ; Times: 2
+	Query: "cypseloides cryptus class:aves" ; Times: 1
+	Query: "melanopareia maximiliani" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "Ramphocelus passerinii institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:castanotis genus:Pteroglossus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 811 download events in this period)
+Total number of records downloaded: 1304
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 8
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 10
+	Date: 2016-09-11 ; Times: 8
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-08 ; Times: 11
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 3
+	Date: 2016-09-07 ; Times: 11
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Merops nubicus tissue:1" ; Times: 1
+	Query: "Anthracothorax dominicus" ; Times: 1
+	Query: "Todus todus tissue:1" ; Times: 1
+	Query: "Chalcostigma olivaceum" ; Times: 1
+	Query: "hemispingus superciliaris type:specimen tissue:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "specificepithet:concreta" ; Times: 1
+	Query: "Empidonax type:specimen (alnorum OR difficilis OR traillii) tissue:1" ; Times: 1
+	Query: "aves and cameroon type:specimen" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "momotus momota tissue:1" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "amazilia edward" ; Times: 1
+	Query: "specificepithet:concretus" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "&#34;Ploceus cucullatus&#34; tissue:1" ; Times: 1
+	Query: "ramphocelus passerinii institutioncode:LSUMZ" ; Times: 1
+	Query: "geococcyx californianus" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "progne chalybea continent:america" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 1
+	Query: "myioborus miniatus type:specimen" ; Times: 2
+	Query: "aves and Guinea type:specimen" ; Times: 1
+	Query: "specificepithet:aegithaloides genus:leptasthenura tissue:1" ; Times: 1
+	Query: "progne tapera continent:america" ; Times: 1
+	Query: "corvus corax europe" ; Times: 1
+	Query: "tachycineta albiventer continent:america" ; Times: 4
+	Query: "poospiza boliviana type:specimen" ; Times: 1
+	Query: "myioborus cardonai type:specimen" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "Calypte helenae" ; Times: 1
+	Query: "&#34;Ploceus velatus&#34; tissue:1" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 1
+	Query: "poospiza ornata type:specimen" ; Times: 1
+	Query: "type:specimen (Empidonax alnorum OR Empidonax difficilis OR Empidonax traillii) tissue:1" ; Times: 1
+	Query: "Eurystomus gularis" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "poospiza nigrorufa type:specimen" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+
+
+End of report.
