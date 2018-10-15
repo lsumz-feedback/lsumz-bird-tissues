@@ -1,0 +1,190 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 619
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 21
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Paraguay ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Gambia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 63
+	Country: New Zealand ; Times: 3
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 7
+	Date: 2017-12-16 ; Times: 3
+	Date: 2017-12-14 ; Times: 9
+	Date: 2017-12-15 ; Times: 8
+	Date: 2017-12-12 ; Times: 14
+	Date: 2017-12-10 ; Times: 4
+	Date: 2017-12-11 ; Times: 4
+	Date: 2017-12-18 ; Times: 9
+	Date: 2017-12-19 ; Times: 11
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-22 ; Times: 3
+	Date: 2017-12-21 ; Times: 5
+	Date: 2017-12-20 ; Times: 6
+	Date: 2017-12-05 ; Times: 5
+	Date: 2017-12-04 ; Times: 4
+	Date: 2017-12-07 ; Times: 6
+	Date: 2017-12-06 ; Times: 7
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-02 ; Times: 2
+	Date: 2017-12-09 ; Times: 4
+	Date: 2017-12-08 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "LSU 16726" ; Times: 1
+	Query: "LSU 15106" ; Times: 2
+	Query: "Megascops minnesota" ; Times: 1
+	Query: "Selasphorus ardens" ; Times: 4
+	Query: "genus:neopelma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Heteralocha institutioncode:LSUMZ" ; Times: 2
+	Query: "porzana porzana hastissue:1" ; Times: 1
+	Query: "specificepithet:chiguanco genus:Turdus" ; Times: 1
+	Query: "specificepithet:major genus:Parus class:Aves institutioncode:LSUMZ" ; Times: 1
+	Query: "aratinga erythrogenys" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:monedula genus:Corvus class:Aves institutioncode:LSUMZ" ; Times: 1
+	Query: "stigmatura budytoides vntype:specimen hastissue:1" ; Times: 2
+	Query: "class:Aves catalognumber:61519 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Troglodytes institutioncode:LSUMZ" ; Times: 2
+	Query: "pterodroma hypoleuca hastissue:1" ; Times: 2
+	Query: "capito wallacei" ; Times: 1
+	Query: "specificepithet:caudatus genus:Aegithalos institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "Egretta gularis" ; Times: 1
+	Query: "Butorides virescens vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "tigrisoma fasciatum" ; Times: 1
+	Query: "cyanocorax heilprini" ; Times: 2
+	Query: "genus:Colaptes country:&#34;Bolivia&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:microsoma class:Aves stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "corvus leucognaphalus" ; Times: 1
+	Query: "LSU 13875" ; Times: 2
+	Query: "specificepithet:schoenobaenus genus:Acrocephalus institutioncode:LSUMZ" ; Times: 1
+	Query: "Knipolegus Paraguay" ; Times: 2
+	Query: "Rhynchotus" ; Times: 1
+	Query: "specificepithet:limicola genus:Rallus institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:microptera genus:Agriornis hastissue:1" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "specificepithet:rupicola genus:Colaptes hastissue:1" ; Times: 1
+	Query: "geositta poeciloptera" ; Times: 4
+	Query: "specificepithet:gracilirostris genus:Catharus hastissue:1" ; Times: 3
+	Query: "specificepithet:craveri genus:Synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "28290 Aves" ; Times: 2
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "LSU 12556" ; Times: 4
+	Query: "Pachycephala Vanuatu 45759" ; Times: 1
+	Query: "ortalis canicollis" ; Times: 2
+	Query: "Herpsilochmus paraguay" ; Times: 1
+	Query: "catalognumber:34420 institutioncode:LSUMZ" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "specificepithet:curruca genus:Sylvia institutioncode:LSUMZ" ; Times: 1
+	Query: "angelae vntype:specimen" ; Times: 3
+	Query: "specificepithet:craveri genus:Synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; continent:north america" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "18756 Aves" ; Times: 2
+	Query: "LSUMZ 48852" ; Times: 1
+	Query: "Chlamydochaera jefferyi" ; Times: 1
+	Query: "LSUMZ 36548" ; Times: 2
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "specificepithet:hiemalis genus:Troglodytes institutioncode:LSUMZ" ; Times: 1
+	Query: "angelae" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "48982 colinus" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Euphonia hastissue:1" ; Times: 1
+	Query: "lsumz 50310" ; Times: 1
+	Query: "lsumz 50317" ; Times: 3
+	Query: "Turdus chrysolaus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucosticta genus:Henicorhina institutioncode:LSUMZ" ; Times: 2
+	Query: "lsumz 50319" ; Times: 2
+	Query: "genus:Troglodytes class:Aves continent:Europe institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Penelope obscura" ; Times: 1
+	Query: "specificepithet:carduelis genus:Carduelis class:Aves institutioncode:LSUMZ" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "schoeniophylax vntype:specimen hastissue:1" ; Times: 1
+	Query: "Knipolegus poecilurus" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus class:Aves institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucosticta genus:Henicorhina country:&#34;guyana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Turdus pallidus hastissue:1" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "specificepithet:scirpaceus genus:Acrocephalus institutioncode:LSUMZ" ; Times: 1
+	Query: "aratinga wagleri" ; Times: 1
+	Query: "cacomantis merulinus vntype:specimen country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "Urosphena whiteheadi" ; Times: 1
+	Query: "Ortalis canicollis" ; Times: 1
+	Query: "genus:Heteralocha" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 2
+	Query: "Branta canadensis country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "19886 Aves" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucosticta genus:Henicorhina country:&#34;suriname&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:coelebs genus:fringilla institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "LSUMZ 48847" ; Times: 1
+	Query: "catalognumber:61519 institutioncode:LSUMZ" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 674 download events in this period)
+Total number of records downloaded: 715
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-08 ; Times: 3
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:buteo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "Knipolegus Paraguay" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 1
+
+
+End of report.
