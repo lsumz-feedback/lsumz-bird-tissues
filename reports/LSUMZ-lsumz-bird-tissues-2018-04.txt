@@ -1,0 +1,338 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 253
+Number of records retrieved in searches: 1440
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: United States ; Times: 164
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 8
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 21
+	Country: Venezuela ; Times: 2
+	Country: Brazil ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-23 ; Times: 7
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 16
+	Date: 2018-04-26 ; Times: 7
+	Date: 2018-04-25 ; Times: 5
+	Date: 2018-04-24 ; Times: 9
+	Date: 2018-04-01 ; Times: 2
+	Date: 2018-04-03 ; Times: 11
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-05 ; Times: 14
+	Date: 2018-04-04 ; Times: 25
+	Date: 2018-04-07 ; Times: 15
+	Date: 2018-04-06 ; Times: 6
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 8
+	Date: 2018-04-30 ; Times: 9
+	Date: 2018-04-12 ; Times: 13
+	Date: 2018-04-13 ; Times: 7
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 15
+	Date: 2018-04-16 ; Times: 6
+	Date: 2018-04-17 ; Times: 42
+	Date: 2018-04-18 ; Times: 5
+	Date: 2018-04-19 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Pteronetta hartlaubii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Podiceps hastissue:1" ; Times: 1
+	Query: "14723 institutioncode:LSUMZ" ; Times: 1
+	Query: "Anas specularis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Minas&#34; country:&#34;Brazil&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "8226 institutioncode:LSUMZ" ; Times: 3
+	Query: "1823 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:55265 institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;cameroon&#34; hastissue:1" ; Times: 2
+	Query: "genus:Tyranneutes catalognumber:25483" ; Times: 1
+	Query: "20557 institutioncode:LSUMZ" ; Times: 2
+	Query: "Chondrohierax uncinatus" ; Times: 2
+	Query: "Chloephaga melanoptera basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "Atlapetes seebohmi" ; Times: 1
+	Query: "catalognumber:10905 institutioncode:LSUMZ" ; Times: 2
+	Query: "Vermivora peregrina Honduras" ; Times: 1
+	Query: "Turdoides bicolor vntype:specimen hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus" ; Times: 2
+	Query: "specificepithet:femoralis genus:falco institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:analis genus:Catamenia hastissue:1" ; Times: 1
+	Query: "capito wallacei" ; Times: 6
+	Query: "Pteronetta hartlaubii institutioncode:LSUMZ basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "LSUMZ 45342" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:laterallus family:rallidae hastissue:1" ; Times: 1
+	Query: "Cyanocompsa cyanoides hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:nicator chloris hastissue:1" ; Times: 1
+	Query: "20353 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "Forpus passerinus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Dendrocygna arborea basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:cotinga genus:Cotinga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geotrygon goldmani vntype:specimen" ; Times: 1
+	Query: "perdicula asiatica" ; Times: 1
+	Query: "genus:Tyranneutes catalognumber:20174" ; Times: 1
+	Query: "vntype:specimen specificepithet:virgata genus:Asthenes stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Henicorhina leucosticta country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Asthenes stateprovince:&#34;Junin&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virens genus:andropadus country:&#34;ghana&#34; hastissue:1" ; Times: 3
+	Query: "LSUMZ 45146" ; Times: 3
+	Query: "LSUMZ 45283" ; Times: 2
+	Query: "LSUMZ 45359" ; Times: 1
+	Query: "specificepithet:epilepidota genus:napothera hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virens genus:andropadus country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "Melanitta nigra basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Leptasthenura stateprovince:&#34;Lima&#34;" ; Times: 1
+	Query: "1732 institutioncode:LSUMZ" ; Times: 2
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Cygnus buccinator basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Anas luzonica basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:nicator country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "pardirallus sanguinolentus hastissue:1" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:gigas genus:hydrochous" ; Times: 3
+	Query: "LSUMZ 36443" ; Times: 1
+	Query: "Spizaetus ornatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sarkidiornis melanotos institutioncode:LSUMZ basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Tyranneutes catalognumber:3027" ; Times: 2
+	Query: "LSU 45145" ; Times: 2
+	Query: "knipolegus orenocensis" ; Times: 1
+	Query: "vntype:specimen genus:Oceanites hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Cathartidae (fluid OR alcohol OR ethanol OR iodine OR jar OR wet)" ; Times: 2
+	Query: "Nettapus pulchellus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "LSUMZ 45291" ; Times: 2
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "LSUMZ 45298" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 5
+	Query: "catalognumber:7343 institutioncode:LSUMZ" ; Times: 1
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "specificepithet:rufus catalognumber:10375" ; Times: 1
+	Query: "catalognumber:48515 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 45145" ; Times: 2
+	Query: "genus:brachypteryx hastissue:1" ; Times: 1
+	Query: "Biziura lobata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:major genus:Podiceps hastissue:1" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "Henicorhina leucosticta country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "Anas castanea basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:ochraceus genus:alophoixus hastissue:1" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus hastissue:1" ; Times: 1
+	Query: "specificepithet:brunneicauda genus:alcippe hastissue:1" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 7
+	Query: "8789 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Tyranneutes catalognumber:4438" ; Times: 1
+	Query: "genus:Stiphrornis hastissue:1" ; Times: 1
+	Query: "megalaima eximia" ; Times: 2
+	Query: "mellisuga" ; Times: 1
+	Query: "genus:Myophonus hastissue:1" ; Times: 1
+	Query: "aulacorhynchus guyana" ; Times: 2
+	Query: "7704 institutioncode:LSUMZ" ; Times: 3
+	Query: "Pyrrhura orcesi vntype:specimen hastissue:1" ; Times: 1
+	Query: "8750 institutioncode:LSUMZ" ; Times: 2
+	Query: "Anas versicolor basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "rallina fasciata hastissue:1" ; Times: 1
+	Query: "specificepithet:narcissina genus:Ficedula stateprovince:&#34;Sabah&#34; country:&#34;Malaysia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vultur gryphus" ; Times: 7
+	Query: "vntype:specimen genus:Phleocryptes country:&#34;Peru&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Phleocryptes country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "Philetairus socius vntype:specimen hastissue:1" ; Times: 1
+	Query: "Mitrospingus oleagineus" ; Times: 2
+	Query: "Atlapetes leucopterus" ; Times: 1
+	Query: "catalognumber:35352 institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyatti genus:Asthenes stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "genus:Asthenes stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "porphyrio hastissue:1" ; Times: 3
+	Query: "Cyanocorax cyanomelas" ; Times: 2
+	Query: "vntype:specimen specificepithet:cucullata genus:Cyanolyca" ; Times: 1
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 2
+	Query: "specificepithet:minor genus:Phoeniconaias hastissue:1" ; Times: 1
+	Query: "catalognumber:9529 institutioncode:LSUMZ" ; Times: 1
+	Query: "aramides family:rallidae class:aves hastissue:1" ; Times: 1
+	Query: "thamnophilus melanothorax" ; Times: 1
+	Query: "Zebrilus undulatus" ; Times: 4
+	Query: "Heteronetta atricapilla basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "laterallus jamaicensis jamaicensis hastissue:1" ; Times: 1
+	Query: "Garrulax sannio vntype:specimen hastissue:1" ; Times: 2
+	Query: "specificepithet:minutus genus:Ixobrychus hastissue:1" ; Times: 1
+	Query: "lsumz stiphrornis" ; Times: 1
+	Query: "specificepithet:pipra family:pipridae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Tyranneutes catalognumber:25405" ; Times: 1
+	Query: "Urubitinga urubitinga country:&#34;Brazil&#34;" ; Times: 1
+	Query: "19004 institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Asthenes stateprovince:&#34;Lima&#34;" ; Times: 2
+	Query: "8064 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:10899 institutioncode:LSUMZ" ; Times: 1
+	Query: "8214 institutioncode:LSUMZ" ; Times: 3
+	Query: "Accipiter superciliosus" ; Times: 2
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "2840 institutioncode:LSUMZ" ; Times: 3
+	Query: "Oxyura leucocephala basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "2702 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:18288 institutioncode:LSUMZ" ; Times: 1
+	Query: "Henicorhina leucosticta country:&#34;Belize&#34; hastissue:1" ; Times: 1
+	Query: "8415 institutioncode:LSUMZ" ; Times: 3
+	Query: "catalognumber:35385 institutioncode:LSUMZ" ; Times: 1
+	Query: "58831" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "Atlapetes nationi" ; Times: 1
+	Query: "Buteo leucorrhous" ; Times: 2
+	Query: "genus:Tyranneutes catalognumber:9573" ; Times: 1
+	Query: "specificepithet:rolland genus:Rollandia hastissue:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:chloris genus:nicator hastissue:1" ; Times: 1
+	Query: "8770 institutioncode:LSUMZ" ; Times: 3
+	Query: "vntype:specimen genus:Fluvicola class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Geositta stateprovince:&#34;Junin&#34;" ; Times: 1
+	Query: "specificepithet:erythroptera genus:Stachyris hastissue:1" ; Times: 1
+	Query: "pardirallus family:rallidae class:aves hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Cinclodes stateprovince:&#34;Junin&#34;" ; Times: 1
+	Query: "genus:Pezopetes (16232)" ; Times: 2
+	Query: "specificepithet:clarkii genus:Aechmophorus hastissue:1" ; Times: 2
+	Query: "flaviventer family:rallidae class:aves hastissue:1" ; Times: 3
+	Query: "Henicorhina leucosticta country:&#34;Ecuador&#34; hastissue:1" ; Times: 1
+	Query: "Corvinella corvina vntype:specimen hastissue:1" ; Times: 2
+	Query: "LSU 45359" ; Times: 1
+	Query: "vntype:specimen genus:Asthenes stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ramphocinclus" ; Times: 1
+	Query: "specificepithet:dominicus genus:Tachybaptus hastissue:1" ; Times: 2
+	Query: "Dendrocygna arcuata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Ceyx rufidorsa" ; Times: 1
+	Query: "anthus rubescens hastissue:1" ; Times: 1
+	Query: "Catharus mexicanus hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Geositta stateprovince:&#34;Lima&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 1359 download events in this period)
+Total number of records downloaded: 1730
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 35
+	Country: Chile ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: Russia ; Times: 3
+	Country: United States ; Times: 16
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 5
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-24 ; Times: 1
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 4
+	Date: 2018-04-05 ; Times: 13
+	Date: 2018-04-07 ; Times: 3
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 4
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-30 ; Times: 7
+	Date: 2018-04-12 ; Times: 9
+	Date: 2018-04-13 ; Times: 5
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "thamnophilus amazonicus" ; Times: 1
+	Query: "Zebrilus undulatus" ; Times: 3
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "knipolegus poecilocercus" ; Times: 1
+	Query: "Atlapetes nationi" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Nothoprocta pentlandii" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma institutioncode:LSUMZ" ; Times: 1
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "Hemispingus superciliaris" ; Times: 1
+	Query: "Atlapetes seebohmi" ; Times: 1
+	Query: "Heliodoxa branickii" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 4
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "Chordeiles rupestris" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "Atlapetes leucopterus" ; Times: 1
+	Query: "vntype:specimen family:Cathartidae (fluid OR alcohol OR ethanol OR iodine OR jar OR wet)" ; Times: 1
+	Query: "basileuterus luteoviridis" ; Times: 2
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "caracara" ; Times: 1
+	Query: "myrmotherula assimilis" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:atthis country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 3
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Atlapetes tricolor" ; Times: 1
+	Query: "Hydropsalis climacocerca" ; Times: 1
+	Query: "Nyctiprogne leucopyga" ; Times: 1
+	Query: "aramides family:rallidae class:aves hastissue:1" ; Times: 1
+	Query: "Ramphocinclus" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "ramphocelus nigrogularis" ; Times: 1
+	Query: "thamnophilus melanothorax" ; Times: 1
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "Myrmotherula multostriata" ; Times: 1
+	Query: "specificepithet:gramineus genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "flaviventer family:rallidae class:aves hastissue:1" ; Times: 1
+	Query: "Geositta" ; Times: 1
+	Query: "Granatellus pelzelni" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "pardirallus sanguinolentus hastissue:1" ; Times: 1
+	Query: "perdicula asiatica" ; Times: 1
+	Query: "Atlapetes schistaceus" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "class:Aves country:&#34;Papua New Guinea&#34; hastissue:1" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Sporophila corvina" ; Times: 1
+	Query: "knipolegus orenocensis" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "psaltria hastissue:1" ; Times: 3
+	Query: "Mitrospingus oleagineus" ; Times: 1
+	Query: "cranioleuca antisiensis" ; Times: 1
+	Query: "genus:Cyanolyca" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "Basileuterus coronatus" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+
+
+End of report.
