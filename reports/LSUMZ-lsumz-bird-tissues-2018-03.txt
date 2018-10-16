@@ -1,0 +1,508 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 572
+Number of records retrieved in searches: 3256
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 35
+	Country: Netherlands ; Times: 12
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 12
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Paraguay ; Times: 3
+	Country: Japan ; Times: 65
+	Country: Argentina ; Times: 9
+	Country: United States ; Times: 404
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 36
+	Date: 2018-03-29 ; Times: 33
+	Date: 2018-03-17 ; Times: 5
+	Date: 2018-03-16 ; Times: 23
+	Date: 2018-03-15 ; Times: 4
+	Date: 2018-03-14 ; Times: 21
+	Date: 2018-03-13 ; Times: 11
+	Date: 2018-03-12 ; Times: 13
+	Date: 2018-03-11 ; Times: 4
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-30 ; Times: 3
+	Date: 2018-03-19 ; Times: 21
+	Date: 2018-03-18 ; Times: 34
+	Date: 2018-03-01 ; Times: 15
+	Date: 2018-03-02 ; Times: 19
+	Date: 2018-03-03 ; Times: 20
+	Date: 2018-03-04 ; Times: 9
+	Date: 2018-03-05 ; Times: 13
+	Date: 2018-03-28 ; Times: 20
+	Date: 2018-03-07 ; Times: 5
+	Date: 2018-03-08 ; Times: 11
+	Date: 2018-03-09 ; Times: 5
+	Date: 2018-03-24 ; Times: 6
+	Date: 2018-03-25 ; Times: 13
+	Date: 2018-03-22 ; Times: 20
+	Date: 2018-03-23 ; Times: 29
+	Date: 2018-03-20 ; Times: 26
+	Date: 2018-03-21 ; Times: 31
+	Date: 2018-03-27 ; Times: 42
+	Date: 2018-03-26 ; Times: 79
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:calvus genus:gymnobucco country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "genus:Nothoprocta  specificepithet:perdicaria" ; Times: 3
+	Query: "vntype:specimen specificepithet:rubricollis genus:malimbus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "flaviventer class:aves hastissue:1" ; Times: 1
+	Query: "specificepithet:virens genus:andropadus country:&#34;Ghana&#34; hastissue:1" ; Times: 2
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 5
+	Query: "specificepithet:tigrinus genus:Lanius country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "genus:Cranioleuca country:&#34;Peru&#34; hastissue:1" ; Times: 2
+	Query: "rhegmatorhina gymnops" ; Times: 5
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;cameroon&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "class:Aves (10328)" ; Times: 1
+	Query: "specificepithet:sinensis genus:Ixobrychus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:flammulata genus:Asthenes" ; Times: 1
+	Query: "genus:Eurystomus specificepithet:gularis" ; Times: 6
+	Query: "vntype:specimen specificepithet:caniceps genus:prionops country:&#34;ghana&#34;" ; Times: 1
+	Query: "Atlapetes melanopsis" ; Times: 1
+	Query: "Cyanocompsa cyanoides vntype:specimen country:&#34;Costa Rica&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;cameroon&#34;" ; Times: 1
+	Query: "Nonnula rubecula vntype:specimen country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:olax genus:Treron country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:prasina genus:hylia country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "genus:Ara specificepithet:macao" ; Times: 2
+	Query: "Myiornis atricapillus" ; Times: 1
+	Query: "genus:Steatornis specificepithet:caripensis" ; Times: 5
+	Query: "vntype:specimen specificepithet:virens genus:andropadus country:&#34;ghana&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:63511" ; Times: 2
+	Query: "Lophura bulweri" ; Times: 23
+	Query: "aimophila aestivalis institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyatti genus:Asthenes hastissue:1" ; Times: 1
+	Query: "sakesphorus luctuosus" ; Times: 1
+	Query: "specificepithet:virgata genus:Asthenes country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "Melozone biarcuata" ; Times: 1
+	Query: "specificepithet:chloris genus:Nicator hastissue:1" ; Times: 1
+	Query: "(19153) institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Pluvialis institutioncode:LSUMZ basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:varius genus:Empidonomus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:sinensis institutioncode:LSUMZ" ; Times: 6
+	Query: "piranga bidentata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:43401" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 6
+	Query: "catalognumber:38102 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:calurus genus:criniger country:&#34;ghana&#34;" ; Times: 1
+	Query: "LSUMZ 14840" ; Times: 1
+	Query: "cranioleuca vulpecula" ; Times: 1
+	Query: "genus:Casuarius specificepithet:unappendiculatus" ; Times: 5
+	Query: "genus:Coracias specificepithet:cyanogaster" ; Times: 6
+	Query: "specificepithet:chihi genus:plegadis country:&#34;argentina&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:borealis genus:Phylloscopus country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:striata genus:Leptasthenura hastissue:1" ; Times: 1
+	Query: "specificepithet:pileata genus:Leptasthenura stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "LSUMZ 13908" ; Times: 2
+	Query: "vntype:specimen specificepithet:poensis genus:neocossyphus country:&#34;cameroon&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus country:&#34;Ghana&#34; hastissue:1" ; Times: 2
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 2
+	Query: "catalognumber:64268" ; Times: 1
+	Query: "16171" ; Times: 1
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 5
+	Query: "genus:Eutoxeres specificepithet:condamini" ; Times: 5
+	Query: "LSUMZ 38102" ; Times: 1
+	Query: "genus:Campephilus specificepithet:rubricollis" ; Times: 2
+	Query: "class:Aves (28984)" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Nicator country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:flammulata genus:Asthenes hastissue:1" ; Times: 2
+	Query: "specificepithet:narcissina genus:Ficedula country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "genus:Baryphthengus specificepithet:martii" ; Times: 6
+	Query: "vntype:specimen specificepithet:castanea genus:platysteira country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:fasciata genus:Rallina country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ocreata genus:fraseria country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "LSUMZ 18390" ; Times: 2
+	Query: "vntype:specimen specificepithet:virens genus:andropadus country:&#34;cameroon&#34; hastissue:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus country:&#34;ghana&#34; hastissue:1" ; Times: 2
+	Query: "picumnus castelnau" ; Times: 1
+	Query: "vntype:specimen specificepithet:ocreata genus:fraseria country:&#34;ghana&#34;" ; Times: 1
+	Query: "genus:Sagittarius specificepithet:serpentarius" ; Times: 5
+	Query: "genus:empidonax institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 6
+	Query: "pellorneum pyrrogenys" ; Times: 1
+	Query: "vntype:specimen specificepithet:virens genus:andropadus country:&#34;cameroon&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:chloris genus:nicator hastissue:1" ; Times: 2
+	Query: "Aulacorhynchus huallagae" ; Times: 1
+	Query: "genus:Myiagra class:Aves (72292)" ; Times: 1
+	Query: "harpactes wardi" ; Times: 1
+	Query: "genus:Odontophorus specificepithet:stellatus" ; Times: 6
+	Query: "vntype:specimen specificepithet:chloris genus:nicator country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "LSUMZ 7797" ; Times: 1
+	Query: "genus:Merops specificepithet:viridis" ; Times: 2
+	Query: "heterocercus linteatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virens genus:sylvietta country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:andicola genus:Leptasthenura country:Peru" ; Times: 1
+	Query: "specificepithet:chrysopasta genus:euphonia hastissue:1" ; Times: 1
+	Query: "Aimophila notosticta" ; Times: 2
+	Query: "specificepithet:cristatus genus:Lanius country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Celeus specificepithet:flavus" ; Times: 6
+	Query: "specificepithet:gouldi genus:euphonia hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "Saltator maxillosus" ; Times: 2
+	Query: "family:Psittacidae country:&#34;Paraguay&#34; (Paraguay)" ; Times: 1
+	Query: "genus:Creagrus specificepithet:furcatus" ; Times: 5
+	Query: "vntype:specimen specificepithet:poliocephala genus:alethe country:&#34;ghana&#34; hastissue:1" ; Times: 2
+	Query: "plegadis ridgwayi" ; Times: 1
+	Query: "specificepithet:finschii genus:neocossyphus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "LSUMZ 15284" ; Times: 1
+	Query: "pitta sordida sabah" ; Times: 1
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "genus:Todus specificepithet:mexicanus" ; Times: 6
+	Query: "LSUMZ 1482 Sturnella" ; Times: 1
+	Query: "genus:Asthenes country:&#34;Peru&#34; hastissue:1" ; Times: 6
+	Query: "vntype:specimen Geocerthia" ; Times: 1
+	Query: "vntype:specimen specificepithet:andicola genus:Leptasthenura hastissue:1" ; Times: 2
+	Query: "genus:Eumomota specificepithet:superciliosa" ; Times: 2
+	Query: "vntype:specimen specificepithet:caniceps genus:prionops country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "genus:Phacellodomus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "procellaria westlandica" ; Times: 2
+	Query: "specificepithet:virens genus:andropadus country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "genus:Opisthocomus specificepithet:hoazin" ; Times: 2
+	Query: "(psophia) hastissue:1" ; Times: 4
+	Query: "LSUMZ 19066" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus hastissue:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:castanea genus:platysteira country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "Megascops asio minnesota" ; Times: 1
+	Query: "specificepithet:banksiana genus:Neolalage class:Aves (45800)" ; Times: 1
+	Query: "catalognumber:13888 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Nothoprocta specificepithet:perdicaria" ; Times: 2
+	Query: "vntype:specimen specificepithet:chloronota genus:camaroptera country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:wyatti genus:Asthenes country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:latirostris genus:andropadus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:subsulphureus genus:pogoniulus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 5
+	Query: "LSU 8221" ; Times: 1
+	Query: "myrmotherula behni basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "grallaria erythrotis" ; Times: 1
+	Query: "synallaxis propinqua" ; Times: 1
+	Query: "specificepithet:poliocephala genus:alethe hastissue:1" ; Times: 1
+	Query: "Atlapetes seebohmi" ; Times: 2
+	Query: "specificepithet:pileata genus:Leptasthenura country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Myiagra class:Aves (72291)" ; Times: 1
+	Query: "specificepithet:atthis genus:Alcedo country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "Cacicus sclateri" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "catalognumber:2982 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:28539 institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:poensis genus:neocossyphus country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "Atlapetes leucopterus" ; Times: 1
+	Query: "catalognumber:15284 hastissue:1" ; Times: 1
+	Query: "rallina fasciata" ; Times: 1
+	Query: "catalognumber:5160 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Neophema specificepithet:splendida" ; Times: 6
+	Query: "specificepithet:sclateri genus:Asthenes country:&#34;Peru&#34; hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:musicus genus:bias country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "class:aves (16522)" ; Times: 1
+	Query: "LSUMZ 28999" ; Times: 1
+	Query: "vntype:specimen specificepithet:syndactyla genus:bleda country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:finschii genus:neocossyphus" ; Times: 1
+	Query: "specificepithet:cyanea genus:Diglossa country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "catalognumber:6114 institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:musicus genus:bias country:&#34;ghana&#34;" ; Times: 1
+	Query: "genus:Scytalopus institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:curvirostris genus:andropadus country:&#34;ghana&#34;" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 65
+	Query: "salpinctes obsoletus chiapas" ; Times: 1
+	Query: "LSUMZ 1482" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "specificepithet:exilis catalognumber:3882 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 63594" ; Times: 5
+	Query: "vntype:specimen Geositta stateprovince:&#34;Junin&#34;" ; Times: 1
+	Query: "Sporophila ruficollis" ; Times: 1
+	Query: "fraseri institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus country:&#34;Ghana&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Aptenodytes hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:calurus genus:criniger country:&#34;ghana&#34; hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:pileata genus:Leptasthenura hastissue:1" ; Times: 1
+	Query: "specificepithet:traillii genus:empidonax institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Anseranas specificepithet:semipalmata" ; Times: 5
+	Query: "genus:Jacana specificepithet:jacana" ; Times: 2
+	Query: "treron olax malaysia" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 7
+	Query: "psophia hastissue:1" ; Times: 3
+	Query: "specificepithet:gouldi genus:euphonia institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:gracilis genus:andropadus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:poensis genus:neocossyphus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "genus:Myiagra class:Aves (72290)" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34;" ; Times: 2
+	Query: "specificepithet:andicola genus:Leptasthenura country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "LSU 13928" ; Times: 2
+	Query: "vntype:specimen specificepithet:gularis genus:merops country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:canicapilla genus:bleda country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "Aulacorhynchus huallagae vntype:specimen" ; Times: 1
+	Query: "genus:Balaeniceps specificepithet:rex" ; Times: 5
+	Query: "specificepithet:virescens genus:Butorides institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Vultur specificepithet:gryphus" ; Times: 5
+	Query: "specificepithet:dauurica genus:Muscicapa country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves (24335)" ; Times: 2
+	Query: "Atlapetes fulviceps" ; Times: 1
+	Query: "furnarius torridus" ; Times: 2
+	Query: "Aulacorhynchus sulcatus vntype:specimen" ; Times: 1
+	Query: "specificepithet:leucorrhoa country:&#34;paraguay&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:leucorrhoa hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virgata genus:Asthenes hastissue:1" ; Times: 1
+	Query: "LSUMZ 2982" ; Times: 3
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "Atlapetes albiceps" ; Times: 1
+	Query: "catalognumber:13463 hastissue:1" ; Times: 1
+	Query: "Torreornis inexpectata" ; Times: 2
+	Query: "thraupis glaucocolpa" ; Times: 6
+	Query: "family:Spheniscidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubricollis genus:malimbus country:&#34;ghana&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;ghana&#34; hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:aereus genus:ceuthmochares country:&#34;ghana&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicator genus:baeopogon country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "vntype:specimen specificepithet:albigularis genus:phyllastrephus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "LSUMZ 8221" ; Times: 2
+	Query: "Francolinus erckelii" ; Times: 1
+	Query: "genus:Luscinia specificepithet:megarhynchos" ; Times: 2
+	Query: "vntype:specimen genus:Leptasthenura stateprovince:&#34;Junin&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albinucha genus:ploceus country:&#34;ghana&#34;" ; Times: 1
+	Query: "specificepithet:bonariensis genus:thraupis hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;cameroon&#34;" ; Times: 1
+	Query: "cacicus koepckeae" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Nicator hastissue:1" ; Times: 1
+	Query: "LSU 5756" ; Times: 1
+	Query: "LSUMZ 9368" ; Times: 1
+	Query: "specificepithet:virens genus:andropadus country:&#34;ghana&#34; hastissue:1" ; Times: 2
+	Query: "Atlapetes nationi" ; Times: 1
+	Query: "genus:Fluvicola class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSUMZ 19938" ; Times: 1
+	Query: "LSU 5756 colaptes" ; Times: 1
+	Query: "specificepithet:mugimaki genus:Ficedula country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:sordida genus:Pitta country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "genus:Myiagra class:Aves (72293)" ; Times: 1
+	Query: "16522 class:Aves" ; Times: 1
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 2
+	Query: "catalognumber:66195" ; Times: 1
+	Query: "LSUMZ 48520" ; Times: 1
+	Query: "44414" ; Times: 1
+	Query: "vntype:specimen specificepithet:poensis genus:neocossyphus hastissue:1" ; Times: 1
+	Query: "south 57046" ; Times: 2
+	Query: "heterocercus aurantiivertex" ; Times: 1
+	Query: "Wetmorethraupis sterrhopteron" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Nicator country:&#34;ghana&#34;" ; Times: 1
+	Query: "eubucco tucinkae" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:trochocercus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "garrulax palliatus" ; Times: 1
+	Query: "specificepithet:pudibunda genus:Asthenes country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "leucippus chlorocercus" ; Times: 1
+	Query: "genus:Pseudasthenes country:&#34;Peru&#34; hastissue:1" ; Times: 2
+	Query: "genus:Saltator country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sublegatus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "62969" ; Times: 1
+	Query: "Cyanocorax heilprini" ; Times: 1
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "specificepithet:coromandus genus:Clamator country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "pitta sordida sarawak" ; Times: 1
+	Query: "dacnis berlepschi" ; Times: 3
+	Query: "995 institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Anthreptes fraseri institutioncode:LSUMZ" ; Times: 1
+	Query: "circus cyaneus vntype:specimen hastissue:1" ; Times: 1
+	Query: "catalognumber:13908 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:comitata genus:muscicapa country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:sinensis genus:Ixobrychus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "Morphnus guianensis" ; Times: 1
+	Query: "specificepithet:banksiana genus:Neolalage class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:eurystomus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:pileata genus:Leptasthenura country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "rallina fasciata malaysia" ; Times: 1
+	Query: "specificepithet:ridgwayi genus:plegadis hastissue:1" ; Times: 1
+	Query: "52261" ; Times: 1
+	Query: "genus:Leptasthenura country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:cocoi genus:Ardea hastissue:1" ; Times: 1
+	Query: "catalognumber:64879" ; Times: 1
+	Query: "vntype:specimen specificepithet:scolopaceus genus:pogoniulus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;ghana&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:aereus genus:ceuthmochares country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "tityra 3145" ; Times: 3
+	Query: "coturnicops hastissue:1" ; Times: 1
+	Query: "specificepithet:castanea genus:platysteira country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "vntype:specimen Cinclodes stateprovince:&#34;Junin&#34;" ; Times: 1
+	Query: "specificepithet:erckelii genus:Francolinus" ; Times: 4
+	Query: "specificepithet:flava genus:Motacilla country:&#34;Malaysia&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:megadyptes hastissue:1" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:turdus hastissue:1" ; Times: 2
+	Query: "picumnus subtilis" ; Times: 1
+	Query: "vntype:specimen specificepithet:curvirostris genus:andropadus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "genus:Trogon specificepithet:curucui" ; Times: 2
+	Query: "cotinga maynana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 116 (out of 1284 download events in this period)
+Total number of records downloaded: 2928
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 42
+	Country: United States ; Times: 34
+	Country: Israel ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 15
+	Country: Mexico ; Times: 17
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-26 ; Times: 8
+	Date: 2018-03-15 ; Times: 3
+	Date: 2018-03-14 ; Times: 7
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 11
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-10 ; Times: 7
+	Date: 2018-03-30 ; Times: 3
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-01 ; Times: 5
+	Date: 2018-03-02 ; Times: 6
+	Date: 2018-03-03 ; Times: 5
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-06 ; Times: 6
+	Date: 2018-03-07 ; Times: 8
+	Date: 2018-03-08 ; Times: 7
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-27 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "schiffornis major" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "manacus manacus" ; Times: 1
+	Query: "cacicus koepckeae" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "paroaria gularis" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Saltator atripennis" ; Times: 1
+	Query: "myiopagis flavivertex" ; Times: 1
+	Query: "inezia caudata" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "sakesphorus canadensis" ; Times: 1
+	Query: "sakesphorus luctuosus" ; Times: 1
+	Query: "(19153) institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "eubucco tucinkae" ; Times: 1
+	Query: "synallaxis albigularis" ; Times: 1
+	Query: "Caprimulgus aegyptius" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "gymnomystax mexicanus" ; Times: 1
+	Query: "cranioleuca vulpecula" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "Pyriglena leuconota" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "Ficedula narcissina" ; Times: 1
+	Query: "cranioleuca vulpina" ; Times: 1
+	Query: "psaltria hastissue:1" ; Times: 1
+	Query: "Phaethornis striigularis" ; Times: 1
+	Query: "Aechmophorus hastissue:1" ; Times: 1
+	Query: "picumnus cirratus" ; Times: 1
+	Query: "Gymnopithys bicolor" ; Times: 1
+	Query: "laterallus hastissue:1" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "furnarius figulus" ; Times: 1
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "heterocercus linteatus" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "eucometis penicillata" ; Times: 1
+	Query: "Saltator institutioncode:LSUMZ" ; Times: 2
+	Query: "Patagona gigas" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "furnarius minor" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "specificepithet:sandvicensis genus:Branta" ; Times: 1
+	Query: "Megascops asio minnesota" ; Times: 1
+	Query: "cacicus solitarius" ; Times: 1
+	Query: "psarocolius angustifrons" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax hastissue:1" ; Times: 1
+	Query: "synallaxis propinqua" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "crypturellus cinereus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "inezia subflava" ; Times: 1
+	Query: "cephalopterus ornatus" ; Times: 1
+	Query: "family:gruidae hastissue:1" ; Times: 1
+	Query: "(psophia) hastissue:1" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "dacnis flaviventer" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "picumnus castelnau" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Eumomota superciliosa" ; Times: 1
+	Query: "psophia hastissue:1" ; Times: 2
+	Query: "Terenotriccus erythrurus" ; Times: 2
+	Query: "pycnonotus plumosus" ; Times: 1
+	Query: "chordeiles rupestris" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "cranioleuca gutturata" ; Times: 1
+	Query: "furnarius torridus" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "pycnonotus simplex" ; Times: 1
+	Query: "Gymnopithys salvini" ; Times: 1
+	Query: "piculus leucolaemus" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "lampropsar tanagrinus" ; Times: 1
+	Query: "Otus asio minnesota" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "genus:Myrmornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Picumnus lafresnayi" ; Times: 1
+	Query: "Gymnopithys rufigula" ; Times: 1
+	Query: "leucippus chlorocercus" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "pipra aureola" ; Times: 1
+	Query: "gymnoderus foetidus" ; Times: 1
+	Query: "heterocercus aurantiivertex" ; Times: 1
+	Query: "synallaxis gujanensis" ; Times: 2
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Cyanocorax heilprini" ; Times: 1
+	Query: "hylophilus flavipes" ; Times: 1
+	Query: "Anthreptes fraseri institutioncode:LSUMZ" ; Times: 1
+	Query: "family:laridae hastissue:1" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Pipra mentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "picumnus subtilis" ; Times: 2
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "cotinga maynana" ; Times: 1
+
+
+End of report.
