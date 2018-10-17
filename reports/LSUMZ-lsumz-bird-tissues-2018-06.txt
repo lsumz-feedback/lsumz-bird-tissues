@@ -1,0 +1,277 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 233
+Number of records retrieved in searches: 1863
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 145
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 15
+	Country: Peru ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Ecuador ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-04 ; Times: 8
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-25 ; Times: 9
+	Date: 2018-06-24 ; Times: 3
+	Date: 2018-06-27 ; Times: 7
+	Date: 2018-06-26 ; Times: 23
+	Date: 2018-06-21 ; Times: 6
+	Date: 2018-06-20 ; Times: 16
+	Date: 2018-06-08 ; Times: 31
+	Date: 2018-06-22 ; Times: 6
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-13 ; Times: 6
+	Date: 2018-06-14 ; Times: 18
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-16 ; Times: 14
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-19 ; Times: 23
+	Date: 2018-06-30 ; Times: 3
+	Date: 2018-06-03 ; Times: 3
+	Date: 2018-06-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Turdus rufitorques hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "specificepithet:Pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 3
+	Query: "specificepithet:calophrys genus:Hemispingus institutioncode:LSUMZ" ; Times: 1
+	Query: "muscicapa tessmanni" ; Times: 2
+	Query: "specificepithet:totanus genus:tringa hastissue:1" ; Times: 1
+	Query: "Atlapetes melanopsis" ; Times: 2
+	Query: "class:Aves catalognumber:31381" ; Times: 3
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Atlapetes seebohmi" ; Times: 1
+	Query: "penelope barbata" ; Times: 2
+	Query: "specificepithet:saucerrottei genus:Amazilia hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:35343" ; Times: 1
+	Query: "genus:Pycnonotus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "catalognumber:8204 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:modesta genus:progne hastissue:1" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "andigena cucullata" ; Times: 1
+	Query: "sterna dougallii vntype:specimen hastissue:1" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "chloropsis kinabaluensis" ; Times: 1
+	Query: "LSU 42307" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 1
+	Query: "specificepithet:cyanea genus:chlorophonia hastissue:1" ; Times: 1
+	Query: "chlorophonia flavirostris" ; Times: 3
+	Query: "cochoa beccarii" ; Times: 2
+	Query: "specificepithet:andicola genus:Leptasthenura country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:wyatti genus:Asthenes country:&#34;Peru&#34;" ; Times: 1
+	Query: "LSUMZ 579" ; Times: 1
+	Query: "Thlypopsis pectoralis" ; Times: 1
+	Query: "epinecrophylla gutturalis" ; Times: 3
+	Query: "saltator maxillosus" ; Times: 1
+	Query: "vntype:specimen genus:hylia hastissue:1" ; Times: 1
+	Query: "Heliangelus regalis" ; Times: 2
+	Query: "specificepithet:affinis genus:Euphonia institutioncode:LSUMZ" ; Times: 1
+	Query: "hastissue:1 tringa totanus" ; Times: 1
+	Query: "catalognumber:58587 institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 3
+	Query: "specificepithet:caudata genus:Chiroxiphia hastissue:1" ; Times: 1
+	Query: "catalognumber:36066 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 7797" ; Times: 1
+	Query: "cyornis turcosus" ; Times: 2
+	Query: "cyornis superbus" ; Times: 4
+	Query: "Scytalopus robbinsi" ; Times: 4
+	Query: "cochoa azurea" ; Times: 5
+	Query: "59971" ; Times: 1
+	Query: "Cichlopsis" ; Times: 1
+	Query: "myioborus albifrons" ; Times: 2
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 1
+	Query: "chloropsis venusta" ; Times: 4
+	Query: "vntype:specimen specificepithet:poliocerca genus:Eupherusa country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "70092" ; Times: 1
+	Query: "neomorphus geoffroyi" ; Times: 3
+	Query: "ortalis canicollis" ; Times: 1
+	Query: "Turdus plumbeus hastissue:1" ; Times: 2
+	Query: "Atlapetes fulviceps" ; Times: 2
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "LSUMZ birdsTissues 18578" ; Times: 1
+	Query: "LSUMZ 2982" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 1
+	Query: "copsychus stricklandii" ; Times: 6
+	Query: "laterallus jamaicensis mexico" ; Times: 1
+	Query: "vntype:specimen specificepithet:brevirostris genus:Rhynchocyclus family:Tyrannidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:5788 institutioncode:LSUMZ" ; Times: 1
+	Query: "Atlapetes personatus" ; Times: 1
+	Query: "catalognumber:566 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:39186 institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:canadensis genus:Falcipennis hastissue:1" ; Times: 1
+	Query: "Synallaxis maranonica" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "Galbula pastazae" ; Times: 5
+	Query: "progne modesta" ; Times: 2
+	Query: "Opisthocomus hoazin country:&#34;Brazil&#34;" ; Times: 1
+	Query: "basilornis celebensis" ; Times: 1
+	Query: "LSUMZ 48617" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 1
+	Query: "myioborus cardonai" ; Times: 2
+	Query: "specificepithet:simplex genus:Pycnonotus hastissue:1" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 2
+	Query: "vntype:specimen genus:LATHROTRICCUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 1
+	Query: "catalognumber:12405 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:73450 institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMZ 9374" ; Times: 1
+	Query: "myioborus pariae" ; Times: 2
+	Query: "lsumz sarawak" ; Times: 1
+	Query: "specificepithet:sclateri genus:Hylophilus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:deliciosus genus:Machaeropterus" ; Times: 3
+	Query: "Scytalopus femoralis hastissue:1" ; Times: 2
+	Query: "LSUMZ 25165" ; Times: 2
+	Query: "Capito quinticolor" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 2
+	Query: "genus:Cichlopsis hastissue:1" ; Times: 1
+	Query: "Heteralocha" ; Times: 1
+	Query: "Atlapetes albiceps" ; Times: 1
+	Query: "Atlapetes melanocephalus" ; Times: 1
+	Query: "Torreornis inexpectata" ; Times: 2
+	Query: "sterna dougallii vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "myophonus glaucinus" ; Times: 7
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "lsumz chlorocharis" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Euphonia hastissue:1" ; Times: 1
+	Query: "eumyias indigo" ; Times: 2
+	Query: "gbifdatasetid:fc003253-5eee-414e-84c8-817e12bdb708" ; Times: 2
+	Query: "42139-1" ; Times: 1
+	Query: "Rollandia rolland rolland" ; Times: 2
+	Query: "Ortalis erythroptera" ; Times: 1
+	Query: "Chlorophonia flavirostris vntype:specimen" ; Times: 1
+	Query: "tangara johannae" ; Times: 1
+	Query: "family:rallidae institutioncode:LSUMZ hastissue:1" ; Times: 5
+	Query: "Chlorophonia flavirostris" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "specificepithet:mexicanus genus:himantopus hastissue:1" ; Times: 1
+	Query: "specificepithet:rufigularis genus:Falco hastissue:1" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "specificepithet:nigricans genus:Pycnonotus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:flava genus:Piranga stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pyrrhura orcesi" ; Times: 2
+	Query: "Pyrrhura albipectus" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "dacnis berlepschi" ; Times: 2
+	Query: "catalognumber:5222 institutioncode:LSUMZ" ; Times: 2
+	Query: "Momotus momota vntype:specimen country:&#34;Mexico&#34; hastissue:1" ; Times: 4
+	Query: "64465" ; Times: 1
+	Query: "genus:Nectarinia institutioncode:LSUMZ" ; Times: 2
+	Query: "LSU 36690" ; Times: 1
+	Query: "genus:Ciccaba class:Aves basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:ochthornis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pachyramphus spodiurus" ; Times: 5
+	Query: "eupetomena macroura country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Turdus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "vntype:specimen genus:EMPIDONAX class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "vntype:specimen genus:Ochthornis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Entomodestes hastissue:1" ; Times: 1
+	Query: "class:Aves (33324)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1169 download events in this period)
+Total number of records downloaded: 1338
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 9
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Ecuador ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-15 ; Times: 3
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 4
+	Date: 2018-06-18 ; Times: 7
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Synallaxis maranonica" ; Times: 1
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "Ortalis erythroptera" ; Times: 1
+	Query: "Galbula pastazae" ; Times: 2
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "eupetomena macroura country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 1
+	Query: "Scytalopus robbinsi" ; Times: 4
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Pyrrhura albipectus" ; Times: 1
+	Query: "Momotus momota vntype:specimen country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "genus:Nectarinia institutioncode:LSUMZ" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 2
+	Query: "genus:Ciccaba class:Aves basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "lepidothrix" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:Atthis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chlorophonia flavirostris" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "specificepithet:Pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 2
+
+
+End of report.
