@@ -1,0 +1,251 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 225
+Number of records retrieved in searches: 570
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 125
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 24
+	Country: India ; Times: 10
+	Country: France ; Times: 8
+	Country: United Kingdom ; Times: 9
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 10
+	Country: Peru ; Times: 16
+	Country: Argentina ; Times: 7
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 9
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-19 ; Times: 6
+	Date: 2018-12-18 ; Times: 10
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-17 ; Times: 13
+	Date: 2018-12-16 ; Times: 3
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-13 ; Times: 4
+	Date: 2018-12-12 ; Times: 7
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 49
+	Date: 2018-12-24 ; Times: 12
+	Date: 2018-12-08 ; Times: 11
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-06 ; Times: 12
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-05 ; Times: 39
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 4
+	Date: 2018-12-01 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:7451 institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:bicolor genus:accipiter country:&#34;bolivia&#34;" ; Times: 1
+	Query: "anthus rubescens hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;California&#34; hastissue:1" ; Times: 2
+	Query: "Poospiza erythrophrys" ; Times: 1
+	Query: "chordeiles gundlachii" ; Times: 1
+	Query: "Trichoglossus flavoviridis" ; Times: 8
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "vntype:specimen specificepithet:coraya class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Attila torridus" ; Times: 3
+	Query: "45926" ; Times: 3
+	Query: "lsumz 48852" ; Times: 2
+	Query: "catalognumber:30510 institutioncode:LSUMZ" ; Times: 2
+	Query: "ampeliceps hastissue:1" ; Times: 1
+	Query: "Leptotila ochraceiventris" ; Times: 2
+	Query: "mino hastissue:1" ; Times: 2
+	Query: "pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Accipiter superciliosus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:41055 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 1
+	Query: "myiagra pluto" ; Times: 1
+	Query: "synallaxis courseni" ; Times: 4
+	Query: "catalognumber:7374 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:pyrrhodes genus:Philydor hastissue:1" ; Times: 1
+	Query: "Corvus kubaryi" ; Times: 36
+	Query: "MEGASCOPS ALBOGULARIS" ; Times: 2
+	Query: "genus:Philydor pyrrhodes hastissue:1" ; Times: 2
+	Query: "46722" ; Times: 1
+	Query: "Torgos" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 1
+	Query: "accipiter superciliosus" ; Times: 6
+	Query: "vntype:specimen genus:Microbates class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "basilornis hastissue:1" ; Times: 2
+	Query: "specificepithet:concolor concolor genus:Amaurospiza" ; Times: 1
+	Query: "phodilus badius" ; Times: 2
+	Query: "Electron vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucotis genus:Thryothorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "aplonis opaca opaca" ; Times: 1
+	Query: "rallus limicola institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:35162 institutioncode:LSUMZ" ; Times: 2
+	Query: "Macropygia emiliana" ; Times: 1
+	Query: "catalognumber:44895 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:44983 institutioncode:LSUMZ" ; Times: 4
+	Query: "megascops hoyi" ; Times: 2
+	Query: "Atlapetes fulviceps" ; Times: 3
+	Query: "institutioncode:lsumz Darien Psittacidae" ; Times: 1
+	Query: "aplonis panayensis hastissue:1" ; Times: 2
+	Query: "Glaucidium bolivianum" ; Times: 1
+	Query: "catalognumber:56689 institutioncode:LSUMZ" ; Times: 2
+	Query: "Crax alberti" ; Times: 1
+	Query: "specificepithet:stolzmanni genus:Chlorothraupis" ; Times: 1
+	Query: "catalognumber:45775 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Terenura hastissue:1" ; Times: 1
+	Query: "catalognumber:41924 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:44435 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7373 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7366 institutioncode:LSUMZ" ; Times: 3
+	Query: "myrmeciza griseiceps" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 4
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 1
+	Query: "Buteo albigula" ; Times: 1
+	Query: "catalognumber:7367 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 1
+	Query: "Stachyris grammiceps" ; Times: 1
+	Query: "passerina amoena x cyanea" ; Times: 1
+	Query: "catalognumber:7375 institutioncode:LSUMZ" ; Times: 3
+	Query: "Aplonis panayensis panayensis hastissue:1" ; Times: 1
+	Query: "loddigesia mirabilis" ; Times: 8
+	Query: "catalognumber:44891 institutioncode:LSUMZ" ; Times: 2
+	Query: "Accipiter superciliosus" ; Times: 24
+	Query: "specificepithet:bicolor genus:accipiter country:&#34;panama&#34;" ; Times: 1
+	Query: "catalognumber:7372 institutioncode:LSUMZ" ; Times: 3
+	Query: "genus:Phylloscartes sylviolus hastissue:1" ; Times: 1
+	Query: "Ortalis erythroptera" ; Times: 2
+	Query: "genus:todiramphus class:aves (45812)" ; Times: 1
+	Query: "catalognumber:44434 institutioncode:LSUMZ" ; Times: 2
+	Query: "passerina cyanea x amoena" ; Times: 1
+	Query: "Icterus oberi" ; Times: 6
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "gubernatrix" ; Times: 1
+	Query: "Synallaxis tithys" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 2
+	Query: "catalognumber:45774 institutioncode:LSUMZ" ; Times: 2
+	Query: "turdus ignobilis institutioncode:LSUMZ" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 809 download events in this period)
+Total number of records downloaded: 4152
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 20
+	Country: Israel ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: India ; Times: 21
+	Country: Cameroon ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-26 ; Times: 3
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-20 ; Times: 4
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 6
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 6
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-17 ; Times: 10
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-13 ; Times: 3
+	Date: 2018-12-18 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Corvus kubaryi" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "specificepithet:olivacea genus:Chlorothraupis" ; Times: 1
+	Query: "Glaucidium hardyi" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "specificepithet:concolor concolor genus:Amaurospiza" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "megascops hoyi" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 1
+	Query: "phodilus badius" ; Times: 2
+	Query: "chordeiles gundlachii" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Attila torridus" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "Icterus oberi" ; Times: 1
+	Query: "specificepithet:vilissimus genus:zimmerius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pachyramphus spodiurus" ; Times: 2
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "genus:Acanthidops" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "Caprimulgus aegyptius" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "specificepithet:carmioli carmioli genus:Chlorothraupis" ; Times: 1
+	Query: "Glaucidium nanum" ; Times: 2
+	Query: "Strix aluco" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Glaucidium jardinii" ; Times: 1
+	Query: "myrmeciza griseiceps" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "Glaucidium bolivianum" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Leptotila ochraceiventris" ; Times: 1
+	Query: "specificepithet:stolzmanni genus:Chlorothraupis" ; Times: 1
+	Query: "Synallaxis tithys" ; Times: 1
+	Query: "class:Aves country:&#34;Belize&#34; hastissue:1" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+
+
+End of report.
