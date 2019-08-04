@@ -1,0 +1,310 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 240
+Number of records retrieved in searches: 1391
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 9
+	Country: Netherlands ; Times: 31
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: Denmark ; Times: 9
+	Country: Venezuela ; Times: 1
+	Country: Nepal ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 4
+	Country: Peru ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 134
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 5
+	Date: 2019-07-18 ; Times: 10
+	Date: 2019-07-19 ; Times: 8
+	Date: 2019-07-08 ; Times: 30
+	Date: 2019-07-12 ; Times: 12
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 5
+	Date: 2019-07-17 ; Times: 4
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-23 ; Times: 5
+	Date: 2019-07-22 ; Times: 5
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-26 ; Times: 5
+	Date: 2019-07-25 ; Times: 20
+	Date: 2019-07-24 ; Times: 6
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-30 ; Times: 3
+	Date: 2019-07-29 ; Times: 11
+	Date: 2019-07-28 ; Times: 9
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-04 ; Times: 19
+	Date: 2019-07-07 ; Times: 50
+	Date: 2019-07-06 ; Times: 4
+	Date: 2019-07-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Capsiempis specificepithet:flaveola" ; Times: 1
+	Query: "specificepithet:livia genus:columba continent:south america" ; Times: 1
+	Query: "aves eremita" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "Myophonus glaucinus vntype:specimen" ; Times: 1
+	Query: "Pauxi pauxi" ; Times: 1
+	Query: "46517 lsumz" ; Times: 1
+	Query: "specificepithet:senegalensis genus:batis hastissue:1" ; Times: 1
+	Query: "grallaria rufula lsumz" ; Times: 1
+	Query: "&#34;quiscalus major&#34; hastissue:1" ; Times: 2
+	Query: "Megascops koepckeae" ; Times: 1
+	Query: "catalognumber:25192 institutioncode:LSUMZ" ; Times: 2
+	Query: "25462 chordeiles" ; Times: 1
+	Query: "1474 ammodramus humeralis" ; Times: 1
+	Query: "genus:ramphastos institutioncode:LSUMZ" ; Times: 4
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "specificepithet:celaeno genus:Rhodothraupis hastissue:1" ; Times: 2
+	Query: "genus:Ardeotis hastissue:1" ; Times: 1
+	Query: "genus:Doryfera specificepithet:ludovicae" ; Times: 1
+	Query: "catalognumber:51608 institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "genus:Sclateria specificepithet:naevia" ; Times: 1
+	Query: "vntype:specimen genus:Gygis hastissue:1" ; Times: 1
+	Query: "specificepithet:modesta genus:progne hastissue:1" ; Times: 2
+	Query: "&#34;Rhodothraupis celaeno&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:11319 institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:paradoxa class:Aves hastissue:1" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "Corvus leucognaphalus" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "specificepithet:griseus genus:vireo stateprovince:&#34;florida&#34; hastissue:1" ; Times: 1
+	Query: "Myophonus glaucinus vntype:specimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:senegalensis genus:batis hastissue:1" ; Times: 1
+	Query: "catalognumber:5400 institutioncode:LSUMZ" ; Times: 2
+	Query: "Pseudoseisura gutturalis" ; Times: 1
+	Query: "vntype:specimen genus:batis country:&#34;ghana&#34;" ; Times: 1
+	Query: "genus:Telespiza specificepithet:cantans" ; Times: 1
+	Query: "quiscalus major institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "LSUMZ 35031" ; Times: 1
+	Query: "eremita hastissue:1" ; Times: 1
+	Query: "LSUMZ 48319" ; Times: 1
+	Query: "Amazona dufresniana" ; Times: 1
+	Query: "catalognumber:25194 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Gymnopithys institutioncode:LSUMZ" ; Times: 1
+	Query: "procellaria hastissue:1" ; Times: 3
+	Query: "genus:Pyrrhura specificepithet:frontalis" ; Times: 1
+	Query: "catalognumber:48240 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:choliba genus:Megascops country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "catalognumber:71918 institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:concreta genus:platysteira hastissue:1" ; Times: 3
+	Query: "7311 tyrannus" ; Times: 1
+	Query: "genus:Anairetes specificepithet:reguloides" ; Times: 1
+	Query: "catalognumber:25195 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:gundlachii genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes hastissue:1" ; Times: 2
+	Query: "48601 sturnella" ; Times: 1
+	Query: "specificepithet:gundlachii genus:vireo hastissue:1" ; Times: 1
+	Query: "Ammodramus humeralis 48319" ; Times: 1
+	Query: "Corvus jamaicensis" ; Times: 1
+	Query: "specificepithet:leucoptera genus:Piranga hastissue:1" ; Times: 4
+	Query: "specificepithet:stolzmanni genus:Chlorothraupis hastissue:1" ; Times: 1
+	Query: "catalognumber:2623 institutioncode:LSUMZ" ; Times: 2
+	Query: "megascops petersoni" ; Times: 1
+	Query: "genus:Thryorchilus specificepithet:browni" ; Times: 1
+	Query: "geositta crassirostris" ; Times: 1
+	Query: "specificepithet:atrimaxillaris genus:Habia hastissue:1" ; Times: 1
+	Query: "genus:Pyrrhura institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "genus:Pericrocotus specificepithet:cinnamomeus" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Percnostola institutioncode:LSUMZ" ; Times: 1
+	Query: "picumnus dorbygnianus" ; Times: 1
+	Query: "specificepithet:anabatinus genus:thamnistes country:&#34;Peru&#34;" ; Times: 1
+	Query: "procellaria westlandica" ; Times: 2
+	Query: "subalaris hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:sclateri genus:Asthenes" ; Times: 2
+	Query: "genus:Mitrospingus specificepithet:cassinii" ; Times: 1
+	Query: "Aratinga auricapillus" ; Times: 1
+	Query: "14630 sporophila" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "catalognumber:25193 institutioncode:LSUMZ" ; Times: 2
+	Query: "13909 tyrannus" ; Times: 1
+	Query: "specificepithet:ichthyaetus genus:Larus" ; Times: 1
+	Query: "specificepithet:stolzmanni genus:Chlorothraupis" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "48280 lsumz" ; Times: 1
+	Query: "vntype:specimen specificepithet:senegalensis genus:batis country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "15394 sporophila" ; Times: 1
+	Query: "geocerthia" ; Times: 1
+	Query: "genus:Lamprolaima specificepithet:rhami" ; Times: 1
+	Query: "specificepithet:rufigula genus:Gymnopithys institutioncode:LSUMZ" ; Times: 1
+	Query: "37811 ammodramus humeralis" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufidorsa genus:Ceyx" ; Times: 1
+	Query: "specificepithet:carmioli carmioli genus:Chlorothraupis hastissue:1" ; Times: 1
+	Query: "Lophornis delattrei vntype:specimen" ; Times: 1
+	Query: "bulweria hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius hastissue:1" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "59041" ; Times: 1
+	Query: "37986 ammodramus humeralis" ; Times: 1
+	Query: "specificepithet:caesius genus:Thamnomanes institutioncode:LSUMZ" ; Times: 1
+	Query: "Sporophila ruficollis" ; Times: 1
+	Query: "genus:Luscinia specificepithet:luscinia" ; Times: 1
+	Query: "genus:Terenura specificepithet:spodioptila" ; Times: 1
+	Query: "genus:Chloroceryle specificepithet:aenea" ; Times: 1
+	Query: "vntype:specimen specificepithet:concreta genus:platysteira" ; Times: 2
+	Query: "28317" ; Times: 1
+	Query: "Oryzoborus maximiliani vntype:specimen hastissue:1" ; Times: 1
+	Query: "Phylloscartes eximius" ; Times: 1
+	Query: "15285 chordeiles" ; Times: 1
+	Query: "6563 sporophila" ; Times: 1
+	Query: "scytalopus altirostris" ; Times: 1
+	Query: "48521 sporophila" ; Times: 1
+	Query: "LSUMZ 36252" ; Times: 1
+	Query: "genus:Ochthoeca specificepithet:cinnamomeiventris" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "46487 lsumz" ; Times: 1
+	Query: "38014 ammodramus humeralis" ; Times: 1
+	Query: "genus:Neoxolmis specificepithet:rufiventris" ; Times: 1
+	Query: "specificepithet:haematonota country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:concreta country:&#34;cameroon&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Portuguesa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:senegalensis genus:batis" ; Times: 1
+	Query: "ficedula dumetoria" ; Times: 3
+	Query: "genus:Chlorostilbon specificepithet:mellisugus" ; Times: 1
+	Query: "LSUMZ 6972" ; Times: 1
+	Query: "1484 ammodramus humeralis" ; Times: 1
+	Query: "buceros rhinoceros" ; Times: 2
+	Query: "specificepithet:noveboracensis genus:Coturnicops stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "grallaria rufula pasco lsumz" ; Times: 1
+	Query: "genus:Microligea specificepithet:palustris" ; Times: 1
+	Query: "specificepithet:ichthyaetus class:Aves" ; Times: 1
+	Query: "rhodothraupis hastissue:1" ; Times: 3
+	Query: "pterodroma hastissue:1" ; Times: 2
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "LSU 12798" ; Times: 1
+	Query: "15257 tyrannus" ; Times: 1
+	Query: "1484 ammodramus" ; Times: 1
+	Query: "Nannopsittaca panychlora" ; Times: 1
+	Query: "catalognumber:22727 institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "LSUMZ 12108" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia hastissue:1" ; Times: 1
+	Query: "Oryzoborus crassirostris vntype:specimen hastissue:1" ; Times: 1
+	Query: "14610 ammodramus humeralis" ; Times: 1
+	Query: "specificepithet:concolor genus:Amaurospiza" ; Times: 1
+	Query: "specificepithet:amethysticollis genus:Heliangelus country:&#34;ecuador&#34;" ; Times: 2
+	Query: "Amazona guildingii" ; Times: 1
+	Query: "catalognumber:5400 institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "16565 sublegatus" ; Times: 2
+	Query: "catalognumber:28341 institutioncode:LSUMZ" ; Times: 3
+	Query: "13871 chordeiles" ; Times: 1
+	Query: "Pyrrhura orcesi" ; Times: 2
+	Query: "genus:Ochthornis specificepithet:littoralis" ; Times: 1
+	Query: "grallaria rufula lsu" ; Times: 1
+	Query: "vntype:specimen specificepithet:senegalensis genus:batis" ; Times: 1
+	Query: "Nannopsittaca dachilleae" ; Times: 2
+	Query: "13878 sporophila" ; Times: 1
+	Query: "specificepithet:przewalskii class:Aves hastissue:1" ; Times: 1
+	Query: "genus:Lathrotriccus specificepithet:euleri" ; Times: 1
+	Query: "ficedula dumetoria lsumz" ; Times: 1
+	Query: "7247 tyrannus" ; Times: 1
+	Query: "specificepithet:atrimaxillaris genus:Habia" ; Times: 2
+	Query: "Buceros rhinoceros" ; Times: 2
+	Query: "xenospingus concolor" ; Times: 2
+	Query: "emberizoides 25464" ; Times: 1
+	Query: "specificepithet:sclateri genus:Asthenes" ; Times: 1
+	Query: "Primolius auricollis" ; Times: 2
+	Query: "catalognumber:11902 institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "69829" ; Times: 1
+	Query: "Ficedula narcissina vntype:specimen hastissue:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "specificepithet:ruficollis genus:Sporophila hastissue:1" ; Times: 1
+	Query: "lsu 27007" ; Times: 2
+	Query: "vntype:specimen specificepithet:castanea genus:platysteira hastissue:1" ; Times: 1
+	Query: "catalognumber:25196 institutioncode:LSUMZ" ; Times: 1
+	Query: "6697 ammodramus humeralis" ; Times: 1
+	Query: "genus:Eupherusa specificepithet:eximia" ; Times: 1
+	Query: "genus:Sporopipes specificepithet:squamifrons" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 985 download events in this period)
+Total number of records downloaded: 410
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 13
+	Country: Guatemala ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 4
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-31 ; Times: 9
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Diglossa brunneiventris" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Megascops koepckeae" ; Times: 1
+	Query: "Corvus jamaicensis" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "phoenicopterus chilensis" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "Corvus nasicus" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Corvus leucognaphalus" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Portuguesa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "upupa epops" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Apure&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
