@@ -1,0 +1,380 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 385
+Number of records retrieved in searches: 2623
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 36
+	Country: Brazil ; Times: 54
+	Country: Netherlands ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 16
+	Country: Singapore ; Times: 3
+	Country: India ; Times: 27
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 184
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 50
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 27
+	Date: 2019-10-08 ; Times: 12
+	Date: 2019-10-21 ; Times: 19
+	Date: 2019-10-27 ; Times: 18
+	Date: 2019-10-26 ; Times: 6
+	Date: 2019-10-25 ; Times: 11
+	Date: 2019-10-24 ; Times: 18
+	Date: 2019-10-01 ; Times: 20
+	Date: 2019-10-03 ; Times: 17
+	Date: 2019-10-02 ; Times: 9
+	Date: 2019-10-04 ; Times: 12
+	Date: 2019-10-07 ; Times: 23
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 16
+	Date: 2019-10-22 ; Times: 10
+	Date: 2019-10-29 ; Times: 23
+	Date: 2019-10-18 ; Times: 6
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 19
+	Date: 2019-10-13 ; Times: 5
+	Date: 2019-10-10 ; Times: 17
+	Date: 2019-10-11 ; Times: 20
+	Date: 2019-10-16 ; Times: 16
+	Date: 2019-10-31 ; Times: 6
+	Date: 2019-10-14 ; Times: 5
+	Date: 2019-10-17 ; Times: 8
+	Date: 2019-10-15 ; Times: 9
+	Date: 2019-10-28 ; Times: 12
+	Date: 2019-10-30 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "rhea pennata" ; Times: 1
+	Query: "LSU 26924" ; Times: 2
+	Query: "specificepithet:bicolor genus:Accipiter institutioncode:LSUMZ" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 1
+	Query: "catalognumber:14708 institutioncode:LSUMZ" ; Times: 1
+	Query: "Myophonus glaucinus vntype:specimen" ; Times: 1
+	Query: "genus:psarocolius hastissue:1" ; Times: 2
+	Query: "specificepithet:alaudina family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "country:&#34;belarus&#34;" ; Times: 1
+	Query: "family:estrildidae class:aves institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "specificepithet:brissonii country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Baillonius country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Ammodramus humeralis guyana" ; Times: 1
+	Query: "lsu 36311" ; Times: 1
+	Query: "specificepithet:lophotes family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:VELIA genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Charadrius mongolus hastissue:1" ; Times: 1
+	Query: "Phacellodomus striaticeps vntype:specimen institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "lsu 38662" ; Times: 2
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "genus:Asthenes family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "Passerella LSUMZ" ; Times: 6
+	Query: "Nystalus radiatus" ; Times: 1
+	Query: "(Anhimidae) hastissue:1" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "catalognumber:5857 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:ruber genus:Phacellodomus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Ramphocelus melanogaster LSUMZ" ; Times: 3
+	Query: "vntype:specimen genus:Sapayoa" ; Times: 1
+	Query: "Vermivora crissalis vntype:specimen" ; Times: 2
+	Query: "LSU 38662" ; Times: 2
+	Query: "Momotus momota LSUMZ" ; Times: 2
+	Query: "Nannopsittaca" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "specificepithet:atricapillus genus:philydor country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Ardeotis hastissue:1" ; Times: 1
+	Query: "Tyrannus savana LSUMZ Bolivia" ; Times: 1
+	Query: "specificepithet:paraguaiae genus:gallinago hastissue:1" ; Times: 1
+	Query: "Porphyrio mantelli" ; Times: 1
+	Query: "genus:terenura country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "Hylophilus pectoralis LSUMZ" ; Times: 1
+	Query: "catalognumber:380 institutioncode:LSUMZ" ; Times: 4
+	Query: "50678" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:synallaxis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:asthenes family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "Branta bernicla AND Baja" ; Times: 1
+	Query: "Charadrius melodus 1998" ; Times: 1
+	Query: "catalognumber:4792 institutioncode:LSUMZ" ; Times: 2
+	Query: "vermivora crissalis" ; Times: 1
+	Query: "LSUMZ 25196" ; Times: 2
+	Query: "Xiphocolaptes promeropirhynchus LSUMZ" ; Times: 3
+	Query: "LSUMZ 25192" ; Times: 2
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "Apteryx hastissue:1" ; Times: 19
+	Query: "LSUMZ 1379" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "specificepithet:phoenicoptera genus:pytilia class:aves" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "lsumz 25376" ; Times: 1
+	Query: "specificepithet:montezuma genus:psarocolius hastissue:1" ; Times: 1
+	Query: "LSU 45414" ; Times: 1
+	Query: "institutioncode:lsumz pyrrhura" ; Times: 1
+	Query: "Sporophila plumbea 14630" ; Times: 1
+	Query: "order:Falconiformes institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:rufosuperciliata family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:annumbi family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:xenops country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Passerina amoena x cyanea" ; Times: 1
+	Query: "LSUMZ 20547" ; Times: 1
+	Query: "Veniliornis affinis LSUMZ" ; Times: 1
+	Query: "Stercorariidae continent:Asia" ; Times: 5
+	Query: "LSU 57113" ; Times: 2
+	Query: "41648 LSUMZ panama" ; Times: 1
+	Query: "catalognumber:404 institutioncode:LSUMZ" ; Times: 2
+	Query: "Hydrochous gigas" ; Times: 1
+	Query: "lsumz 4458" ; Times: 2
+	Query: "specificepithet:rufum genus:philydor country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Chiroxiphia pareola LSUMZ" ; Times: 2
+	Query: "kirtlandii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Schoeniophylax country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "103914" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:seledon genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:mongolus genus:Charadrius hastissue:1" ; Times: 2
+	Query: "64055" ; Times: 1
+	Query: "order:Accipitriformes institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:cristatus family:furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 2
+	Query: "specificepithet:leucoblepharus family:pARULIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Aeronautes AND San Martin" ; Times: 1
+	Query: "Synthliboramphus craveri continent:North America" ; Times: 3
+	Query: "genus:drymornis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Momotus aequatorialis LSUMZ" ; Times: 1
+	Query: "specificepithet:picumnus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Cinnycerthia hastissue:1" ; Times: 2
+	Query: "specificepithet:frontalis genus:synallaxis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "harpactes reinwardtii" ; Times: 3
+	Query: "genus:chamaeza country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "13909 tyrannus" ; Times: 1
+	Query: "(Apterygiformes) hastissue:1" ; Times: 7
+	Query: "specificepithet:kennicotti genus:megascops institutioncode:LSUMZ" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "catalognumber:25164 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 25195" ; Times: 2
+	Query: "genus:polioptila country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "LSUMZ 13378" ; Times: 1
+	Query: "LSUMZ 13379" ; Times: 1
+	Query: "Junco vulcani" ; Times: 1
+	Query: "Phodilus badius" ; Times: 1
+	Query: "Psarocolius atrovirens LSUMZ" ; Times: 2
+	Query: "specificepithet:sibilatrix genus:Phacellodomus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Ammodramus humeralis country:&#34;Guyana&#34; hastissue:1" ; Times: 1
+	Query: "LSUMZ 13377" ; Times: 2
+	Query: "catalognumber:28001 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:euschistospiza class:aves" ; Times: 3
+	Query: "Dendrocitta cinerascens" ; Times: 2
+	Query: "Aphelocoma coerulescens 2016" ; Times: 1
+	Query: "Tyrannus albogularis 7311" ; Times: 1
+	Query: "LSUMZ 10455" ; Times: 2
+	Query: "LSU 28188" ; Times: 2
+	Query: "15266 LSUMZ Bolivia" ; Times: 1
+	Query: "specificepithet:rufosuperciliata country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:major genus:xiphocolaptes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Pseudoseisura country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicana genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSUMZ 25193" ; Times: 2
+	Query: "LSUMZ 20520" ; Times: 1
+	Query: "LSUMZ 14270" ; Times: 1
+	Query: "48429 LSUMZ guyana" ; Times: 1
+	Query: "catalognumber:4737 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:37724 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:albilora genus:Synallaxis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Psephotus chrysopterygius" ; Times: 10
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "vntype:specimen specificepithet:chilensis genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:CHLOROPHONIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Harpactes reinwardtii" ; Times: 4
+	Query: "LSU 25478" ; Times: 2
+	Query: "Todiramphus cinnamominus hastissue:1" ; Times: 1
+	Query: "genus:Drymornis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Todiramphus cinnamominus" ; Times: 17
+	Query: "32998" ; Times: 1
+	Query: "Heliangelus regalis" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "genus:Pseudoseisura family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "catalognumber:33362 institutioncode:LSUMZ" ; Times: 2
+	Query: "Tyrannus savana LSU Bolivia" ; Times: 1
+	Query: "vntype:specimen specificepithet:varia genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSUMZ 36663" ; Times: 4
+	Query: "specificepithet:leucoptera genus:henicorhina institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter country:&#34;Bolivia&#34; continent:South America" ; Times: 1
+	Query: "phodilus" ; Times: 1
+	Query: "specificepithet:Rustica family:hirundinidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:furcata genus:thalurania country:&#34;brazil&#34;" ; Times: 1
+	Query: "LSU 28289" ; Times: 2
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 9
+	Query: "catalognumber:35414 institutioncode:LSUMZ" ; Times: 1
+	Query: "Hemitriccus rufigularis" ; Times: 2
+	Query: "specificepithet:pyrrhophia family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "catalognumber:45976 institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:gyrola genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:alaudina country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "7262 tyrannus" ; Times: 2
+	Query: "LSUMZ 45414" ; Times: 2
+	Query: "66686" ; Times: 1
+	Query: "cerulea basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:hylophilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "tangara callophrys" ; Times: 2
+	Query: "52049" ; Times: 1
+	Query: "xiphorhynchus guttatus LSUMZ" ; Times: 1
+	Query: "specificepithet:albicollis genus:xiphocolaptes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "15257 tyrannus" ; Times: 1
+	Query: "13908 LSUMZ Bolivia" ; Times: 1
+	Query: "Branta bernicla AND Mexico" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "aratinga wagleri" ; Times: 2
+	Query: "Snowornis subalaris" ; Times: 2
+	Query: "specificepithet:platyrostris genus:dendrocolaptes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "LSUMZ 4458" ; Times: 1
+	Query: "7247 tyrannus" ; Times: 1
+	Query: "LSUMZ 25194" ; Times: 2
+	Query: "LSU \38662" ; Times: 3
+	Query: "genus:LOCHMIAS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "Hylophilus olivaceus LSUMZ" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "genus:AUTOMOLUS family:Furnariidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Xiphorhynchus guttatus LSUMZ" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "specificepithet:PICUMNUS genus:DENDROCOLAPTES country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:CERTHIOIDes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "catalognumber:11839 institutioncode:LSUMZ" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "catalognumber:12282 institutioncode:LSUMZ" ; Times: 1
+	Query: "Nannopsittaca dachilleae" ; Times: 2
+	Query: "catalognumber:25375 institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 2
+	Query: "Hylophilus olivaceus" ; Times: 4
+	Query: "vntype:specimen specificepithet:punctata genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSU 25180" ; Times: 2
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "specificepithet:fuscus genus:xiphorhynchus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:cinerascens genus:Synallaxis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:sclerurus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "LSUMZ 28341" ; Times: 4
+	Query: "specificepithet:trochilirostris country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus hastissue:1" ; Times: 1
+	Query: "specificepithet:solitarius family:ICTERIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:dendrocincla country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:angustirostris genus:Lepidocolaptes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Henicorhina leucosticta LSUMZ" ; Times: 3
+	Query: "genus:Pipra country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Henicorhina leucoptera" ; Times: 1
+	Query: "vntype:specimen specificepithet:velia genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:spixi genus:synallaxis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "67214" ; Times: 3
+	Query: "catalognumber:1827 institutioncode:LSUMZ" ; Times: 2
+	Query: "Ramphocelus carbo LSUMZ" ; Times: 4
+	Query: "LSU 25178" ; Times: 2
+	Query: "LSU 25179" ; Times: 4
+	Query: "28576 LSUMZ panama" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1308 download events in this period)
+Total number of records downloaded: 2143
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 3
+	Country: United States ; Times: 32
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-08 ; Times: 4
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-24 ; Times: 2
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-29 ; Times: 3
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "rhea pennata" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tamil Nadu&#34;" ; Times: 3
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "diglossa" ; Times: 1
+	Query: "sturnella bellicosa" ; Times: 1
+	Query: "specificepithet:montezuma genus:psarocolius hastissue:1" ; Times: 1
+	Query: "Passerina amoena x cyanea" ; Times: 1
+	Query: "genus:Mirafra hastissue:1" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "anairetes parulus" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "specificepithet:bewickii genus:Thryomanes hastissue:1" ; Times: 2
+	Query: "Ara militaris" ; Times: 1
+	Query: "Hemispingus" ; Times: 1
+	Query: "genus:Thryomanes country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Todiramphus cinnamominus" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "Geothlypis beldingi" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "order:Accipitriformes institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 2
+	Query: "order:Falconiformes institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Geothlypis rostrata" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:kennicotti genus:megascops institutioncode:LSUMZ" ; Times: 2
+	Query: "chloephaga rubidiceps" ; Times: 2
+	Query: "ara militaris" ; Times: 1
+
+
+End of report.
