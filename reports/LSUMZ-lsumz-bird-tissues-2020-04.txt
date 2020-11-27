@@ -1,0 +1,431 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 925
+Number of records retrieved in searches: 5011
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Venezuela ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 8
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 760
+	Country: Germany ; Times: 2
+	Country: Paraguay ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 116
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 282
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-22 ; Times: 5
+	Date: 2020-04-05 ; Times: 4
+	Date: 2020-04-20 ; Times: 5
+	Date: 2020-04-07 ; Times: 308
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-24 ; Times: 6
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 5
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 52
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-03 ; Times: 129
+	Date: 2020-04-19 ; Times: 9
+	Date: 2020-04-18 ; Times: 10
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-11 ; Times: 5
+	Date: 2020-04-10 ; Times: 5
+	Date: 2020-04-17 ; Times: 14
+	Date: 2020-04-16 ; Times: 10
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 48
+
+List of queries that retrieved data from the resource: 
+	Query: "Ploceus bicolor" ; Times: 8
+	Query: "Turdus reevei" ; Times: 9
+	Query: "Tragopan satyra" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 3
+	Query: "Anser cygnoides" ; Times: 10
+	Query: "Gallicolumba jobiensis" ; Times: 10
+	Query: "Crax daubentoni" ; Times: 7
+	Query: "specificepithet:orix genus:Euplectes hastissue:1" ; Times: 1
+	Query: "Buceros bicornis" ; Times: 1
+	Query: "Phegornis mitchellii" ; Times: 4
+	Query: "specificepithet:xanthogaster genus:euphonia institutioncode:LSUMZ" ; Times: 2
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "genus:tolmomyias family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Atlapetes schistaceus" ; Times: 3
+	Query: "harpactes reinwardtii institutioncode:LSUMZ" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 8
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Hippolais polyglotta" ; Times: 4
+	Query: "specificepithet:varius genus:Empidonomus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Criniger calurus" ; Times: 1
+	Query: "Ortalis canicollis" ; Times: 3
+	Query: "Piranga leucoptera" ; Times: 5
+	Query: "Vestiaria coccinea" ; Times: 3
+	Query: "Geotrygon versicolor" ; Times: 3
+	Query: "specificepithet:petechia country:&#34;panama&#34; hastissue:1" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 9
+	Query: "caprimulgus maculicaudus" ; Times: 2
+	Query: "specificepithet:mystaceus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aphrodroma brevirostris" ; Times: 3
+	Query: "specificepithet:velatus genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 3
+	Query: "Piranga bidentata" ; Times: 8
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "Amazilia violiceps" ; Times: 3
+	Query: "Hypsipetes amaurotis" ; Times: 4
+	Query: "specificepithet:squamifrons genus:Sporopipes hastissue:1" ; Times: 1
+	Query: "specificepithet:cyanicollis genus:Galbula country:&#34;Peru&#34;" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 7
+	Query: "Amazilia viridicauda" ; Times: 3
+	Query: "vntype:specimen specificepithet:castro country:&#34;united states&#34;" ; Times: 2
+	Query: "specificepithet:dominica genus:Pluvialis country:&#34;Peru&#34;" ; Times: 1
+	Query: "Garrulax cineraceus" ; Times: 15
+	Query: "Tachycineta euchrysea" ; Times: 4
+	Query: "Corvus splendens" ; Times: 9
+	Query: "catalognumber:21938 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:varius country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber:39361 institutioncode:LSUMZ" ; Times: 2
+	Query: "Syrmaticus humiae" ; Times: 3
+	Query: "Phaetusa simplex" ; Times: 2
+	Query: "C. psittacula" ; Times: 6
+	Query: "Pteroglossus beauharnaesii" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "specificepithet:luteolus genus:Ploceus hastissue:1" ; Times: 1
+	Query: "60930 institutioncode:LSUMZ" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 5
+	Query: "Leiothrix lutea" ; Times: 3
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "Pauxi pauxi" ; Times: 3
+	Query: "Nothocrax urumutum" ; Times: 3
+	Query: "Leucopternis melanops" ; Times: 7
+	Query: "Amazilia saucerrottei" ; Times: 3
+	Query: "Gallinago paraguaiae" ; Times: 6
+	Query: "Amazilia edward" ; Times: 3
+	Query: "Pterodroma hasitata" ; Times: 3
+	Query: "class:Aves (30985)" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 9
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "catalognumber:39372 institutioncode:LSUMZ" ; Times: 2
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "Grus japonensis" ; Times: 4
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "22916" ; Times: 1
+	Query: "Gymnomystax mexicanus" ; Times: 2
+	Query: "specificepithet:auriculata genus:Zenaida country:&#34;Argentina&#34; hastissue:1" ; Times: 1
+	Query: "geositta poeciloptera" ; Times: 3
+	Query: "Arborophila rufogularis" ; Times: 2
+	Query: "Streptopelia orientalis" ; Times: 3
+	Query: "Bugeranus carunculatus" ; Times: 4
+	Query: "Mitu tuberosa" ; Times: 3
+	Query: "Aix galericulata" ; Times: 2
+	Query: "pseudocolopteryx" ; Times: 1
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "passerina cyanea amoena" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "Buteo ridgwayi" ; Times: 7
+	Query: "Phylloscopus fuscatus" ; Times: 4
+	Query: "genus:branta stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 3
+	Query: "Crax rubra" ; Times: 3
+	Query: "Sarkidiornis melanotos" ; Times: 11
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 1
+	Query: "catalognumber:32460 institutioncode:LSUMZ" ; Times: 2
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "Phoenicurus auroreus" ; Times: 9
+	Query: "Marmaronetta angustirostris" ; Times: 13
+	Query: "Chrysomus ruficapillus" ; Times: 2
+	Query: "Butorides striata" ; Times: 9
+	Query: "Tragopan temminckii" ; Times: 2
+	Query: "lsumz 36423" ; Times: 1
+	Query: "Anser indicus" ; Times: 5
+	Query: "LSUMZ 40846" ; Times: 2
+	Query: "specificepithet:socius genus:Philetairus hastissue:1" ; Times: 1
+	Query: "coturnix chinensis" ; Times: 1
+	Query: "specificepithet:hypoleuca genus:Serpophaga country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber:32428 institutioncode:LSUMZ" ; Times: 2
+	Query: "Polystictus pectoralis" ; Times: 2
+	Query: "Sicalis olivascens" ; Times: 5
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "LSU 25179" ; Times: 1
+	Query: "catalognumber:23826 institutioncode:LSUMZ" ; Times: 2
+	Query: "Phylloscopus occipitalis" ; Times: 7
+	Query: "Criniger chloronotus" ; Times: 2
+	Query: "Cisticola fulvicapilla" ; Times: 3
+	Query: "Chamaepetes goudotii" ; Times: 3
+	Query: "catalognumber:45090 institutioncode:LSUMZ" ; Times: 2
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "catalognumber:39337 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:38198 institutioncode:LSUMZ" ; Times: 2
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "Rhea americana" ; Times: 3
+	Query: "vntype:specimen specificepithet:nitidus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ardea goliath" ; Times: 1
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "40612" ; Times: 1
+	Query: "Tachycineta cyaneoviridis" ; Times: 4
+	Query: "specificepithet:roseicollis genus:Agapornis hastissue:1" ; Times: 1
+	Query: "genus:psittacus hastissue:1" ; Times: 1
+	Query: "lsumz 28348" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "Ixobrychus minutus" ; Times: 1
+	Query: "specificepithet:bicolor genus:conirostrum country:&#34;Peru&#34;" ; Times: 2
+	Query: "Piranga rubriceps" ; Times: 3
+	Query: "36220" ; Times: 1
+	Query: "Dolospingus fringilloides" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 5
+	Query: "specificepithet:leucoryphus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "LSUMZ 40626" ; Times: 1
+	Query: "catalognumber:56974 institutioncode:LSUMZ" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 1
+	Query: "Merganetta armata" ; Times: 5
+	Query: "Buteo albigula" ; Times: 4
+	Query: "Culicicapa ceylonensis" ; Times: 4
+	Query: "Tachycineta leucopyga" ; Times: 7
+	Query: "Chalcophaps stephani" ; Times: 6
+	Query: "specificepithet:cinerea genus:Serpophaga country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Contopus hastissue:1" ; Times: 1
+	Query: "specificepithet:rufigularis genus:Sclerurus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:erythrops genus:Quelea hastissue:1" ; Times: 1
+	Query: "specificepithet:ucayalae country:&#34;Peru&#34;" ; Times: 3
+	Query: "Amazilia viridigaster" ; Times: 3
+	Query: "catalognumber:39371 institutioncode:LSUMZ" ; Times: 2
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "specificepithet:ararauna genus:Ara hastissue:1" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 3
+	Query: "Amazilia cyanocephala" ; Times: 3
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Creagrus furcatus" ; Times: 6
+	Query: "specificepithet:xanthogaster genus:euphonia hastissue:1" ; Times: 2
+	Query: "LSUMZ 36423" ; Times: 1
+	Query: "Saltator similis" ; Times: 5
+	Query: "Anas poecilorhyncha" ; Times: 13
+	Query: "Psalidoprocne pristoptera" ; Times: 7
+	Query: "catalognumber:32458 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Agapornis hastissue:1" ; Times: 2
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "Junco hyemalis stateprovince:&#34;California&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "trogon personatus institutioncode:LSUMZ 7644" ; Times: 1
+	Query: "Gallinago andina" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "genus:Spizaetus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Garrulax sannio" ; Times: 3
+	Query: "Anas falcata" ; Times: 13
+	Query: "catalognumber:14420 institutioncode:LSUMZ" ; Times: 2
+	Query: "Hydrochous gigas" ; Times: 4
+	Query: "Lampropsar tanagrinus" ; Times: 3
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Chrysomus thilius" ; Times: 2
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "specificepithet:plumbeiceps family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Chrysomus icterocephalus" ; Times: 2
+	Query: "Turdus nigrescens" ; Times: 9
+	Query: "Buteo nitidus" ; Times: 4
+	Query: "Baeopogon indicator" ; Times: 4
+	Query: "ramphocinclus" ; Times: 1
+	Query: "Oceanodroma castro" ; Times: 4
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "Buteo rufinus" ; Times: 4
+	Query: "Steatornis caripensis" ; Times: 5
+	Query: "Tachycineta leucorrhoa" ; Times: 7
+	Query: "vntype:specimen specificepithet:caeruleus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leucopternis semiplumbeus" ; Times: 4
+	Query: "61477" ; Times: 1
+	Query: "Hylophilus brunneiceps" ; Times: 1
+	Query: "LSUMZ 8289" ; Times: 1
+	Query: "phyllastrephus icterinus" ; Times: 2
+	Query: "34276" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "specificepithet:nitens genus:Malimbus hastissue:1" ; Times: 1
+	Query: "Syrmaticus ellioti" ; Times: 3
+	Query: "Phyllastrephus albigularis" ; Times: 4
+	Query: "catalognumber:32321 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:petechia country:&#34;honduras&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:32462 institutioncode:LSUMZ" ; Times: 2
+	Query: "Luscinia calliope" ; Times: 4
+	Query: "specificepithet:polyosoma genus:Buteo country:&#34;Peru&#34;" ; Times: 1
+	Query: "Syrmaticus reevesii" ; Times: 3
+	Query: "trogon personatus institutioncode:LSUMZ" ; Times: 1
+	Query: "(49095)" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "Conirostrum albifrons" ; Times: 3
+	Query: "Turdus pallidus" ; Times: 9
+	Query: "Turdus nigriceps" ; Times: 9
+	Query: "Turdus pelios" ; Times: 9
+	Query: "catalognumber:27295 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:42638 institutioncode:LSUMZ" ; Times: 1
+	Query: "Leucopternis princeps" ; Times: 4
+	Query: "Amazilia amabilis" ; Times: 3
+	Query: "Tachycineta albilinea" ; Times: 7
+	Query: "class:Aves catalognumber:61477" ; Times: 1
+	Query: "Ortalis cinereiceps" ; Times: 3
+	Query: "Bycanistes brevis" ; Times: 4
+	Query: "Buteo brachyurus" ; Times: 4
+	Query: "Agelaioides oreopsar" ; Times: 3
+	Query: "Hemispingus frontalis" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "Grus leucogeranus" ; Times: 4
+	Query: "pseudasthenes cactorum" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Leucopternis kuhli" ; Times: 7
+	Query: "Euphonia plumbea" ; Times: 1
+	Query: "LSUMZ 8272" ; Times: 1
+	Query: "Buteogallus meridionalis" ; Times: 4
+	Query: "Perdicula asiatica" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 7
+	Query: "Amblyospiza albifrons" ; Times: 8
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Phyllastrephus icterinus" ; Times: 4
+	Query: "Buteo solitarius" ; Times: 4
+	Query: "Amazilia lactea" ; Times: 4
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Buteo polyosoma" ; Times: 5
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Muscisaxicola fluviatilis" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 4
+	Query: "Turdus plebejus" ; Times: 9
+	Query: "Doryfera johannae" ; Times: 3
+	Query: "Gnorimopsar chopi" ; Times: 3
+	Query: "genus:Fluvicola country:&#34;Peru&#34;" ; Times: 9
+	Query: "specificepithet:certhioides genus:Tarphonomus" ; Times: 1
+	Query: "Passerina amoena cyanea" ; Times: 1
+	Query: "specificepithet:punensis genus:phrygilus" ; Times: 1
+	Query: "specificepithet:griseiceps genus:Phyllomyias country:&#34;Peru&#34;" ; Times: 1
+	Query: "Grus antigone" ; Times: 6
+	Query: "56798" ; Times: 1
+	Query: "Geositta saxicolina" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 7
+	Query: "Harpactes wardi" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 3
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "specificepithet:rubricollis genus:Malimbus hastissue:1" ; Times: 1
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "specificepithet:afer genus:Euplectes hastissue:1" ; Times: 1
+	Query: "Lophura ignita" ; Times: 3
+	Query: "Penelopina nigra" ; Times: 2
+	Query: "catalognumber:21320 institutioncode:LSUMZ" ; Times: 1
+	Query: "Macroagelaius imthurni" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 9
+	Query: "Netta rufina" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1171 download events in this period)
+Total number of records downloaded: 1930
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 9
+	Country: Brazil ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 9
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-22 ; Times: 9
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 5
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 5
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 8
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "LSUMZ; Junco Hyemalis" ; Times: 1
+	Query: "lurocalis" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "geositta poeciloptera" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "Neopelma chrysocephalum" ; Times: 1
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "Campylorhynchus griseus griseus" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Xenopipo atronitens" ; Times: 1
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "Gallinago andina" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "Euphonia plumbea" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Dolospingus fringilloides" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Campylorhynchus griseus" ; Times: 1
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Gallinago jamesoni" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Polystictus pectoralis" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "Hylophilus brunneiceps" ; Times: 1
+	Query: "phyllastrephus icterinus" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis institutioncode:LSUMZ" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 1
+
+
+End of report.
