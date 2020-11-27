@@ -1,0 +1,272 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 1137
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: Peru ; Times: 34
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Paraguay ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 165
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 5
+	Date: 2019-11-18 ; Times: 17
+	Date: 2019-11-30 ; Times: 9
+	Date: 2019-11-15 ; Times: 20
+	Date: 2019-11-14 ; Times: 24
+	Date: 2019-11-16 ; Times: 6
+	Date: 2019-11-11 ; Times: 22
+	Date: 2019-11-10 ; Times: 10
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-08 ; Times: 7
+	Date: 2019-11-27 ; Times: 7
+	Date: 2019-11-29 ; Times: 3
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 9
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-25 ; Times: 29
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 16
+	Date: 2019-11-07 ; Times: 10
+	Date: 2019-11-04 ; Times: 9
+	Date: 2019-11-05 ; Times: 4
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Cyanicterus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "Heliangelus strophianus vntype:specimen institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cyornis banyumas" ; Times: 1
+	Query: "genus:cistothorus hastissue:1" ; Times: 1
+	Query: "LSUMZ 4479" ; Times: 1
+	Query: "genus:Scytalopus stateprovince:&#34;Puno&#34; country:&#34;Peru&#34; institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "passerina cyanea x amoena" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "LSUMZ 4477" ; Times: 1
+	Query: "specificepithet:kennicotti genus:megascops institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "catalognumber:8015 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:violacea family:COLUMBIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Chlorophonia institutioncode:LSUMZ" ; Times: 3
+	Query: "catalognumber:723 institutioncode:LSUMZ" ; Times: 2
+	Query: "Passerina cyanea x amoena vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 1
+	Query: "specificepithet:schulzi genus:cinclus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:indicator genus:Indicator hastissue:1" ; Times: 1
+	Query: "catalognumber:602 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:11958 institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:episcopus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Scytalopus country:&#34;Bolivia&#34; institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lamprolaima hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:peruanum genus:Glaucidium class:aves country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "taphrolesbia griseiventris" ; Times: 1
+	Query: "specificepithet:coronatus genus:Tachyphonus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Hemitriccus cinnamomeipectus" ; Times: 2
+	Query: "catalognumber:13325 institutioncode:LSUMZ" ; Times: 1
+	Query: "Grallaria blakei" ; Times: 2
+	Query: "hemitriccus rufigularis" ; Times: 2
+	Query: "LSUMZ 4495" ; Times: 1
+	Query: "Heliangelus regalis" ; Times: 2
+	Query: "Passerina cyanea x amoena" ; Times: 2
+	Query: "45295" ; Times: 1
+	Query: "nonnula brunnea" ; Times: 14
+	Query: "harpactes wardi" ; Times: 1
+	Query: "LSUMZ 4488" ; Times: 1
+	Query: "LSUMZ 28001" ; Times: 3
+	Query: "heliangelus regalis" ; Times: 9
+	Query: "catalognumber:10606 institutioncode:LSUMZ" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "catalognumber:1828 institutioncode:LSUMZ" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "Setornis criniger" ; Times: 2
+	Query: "family:Musophagidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "catalognumber:16447 institutioncode:LSUMZ" ; Times: 4
+	Query: "LSUMZ 4489" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "specificepithet:yncas genus:cyanocorax institutioncode:LSUMZ" ; Times: 1
+	Query: "nonnula sclateri" ; Times: 7
+	Query: "LSUMZ 4481" ; Times: 2
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "LSUMZ 4480" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "LSU Junco phaeonotus hastissue:1" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "LSUMZ 4478" ; Times: 1
+	Query: "catalognumber:1068 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 4482" ; Times: 2
+	Query: "Hemitriccus rufigularis" ; Times: 2
+	Query: "catalognumber:13116 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:10612 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU Junco phaeonotus" ; Times: 1
+	Query: "45756 specificepithet:esculenta genus:collocalia" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "LSUMZ 452" ; Times: 1
+	Query: "Nonnula brunnea" ; Times: 10
+	Query: "Brachyramphus marmoratus 2016" ; Times: 4
+	Query: "Rallus elegans vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Pittidae institutioncode:LSUMZ" ; Times: 1
+	Query: "Thinocorus orbignyianus LSU" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "Lampornis country:&#34;Costa Rica&#34; hastissue:1" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 4
+	Query: "vntype:specimen specificepithet:nigrocincta genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "catalognumber:13395 institutioncode:LSUMZ" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "catalognumber:37010 institutioncode:LSUMZ" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "LSUMZ 36663" ; Times: 1
+	Query: "LSUMZ 33349" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "catalognumber:947 institutioncode:LSUMZ" ; Times: 2
+	Query: "61702" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "56937" ; Times: 2
+	Query: "11317 specificepithet:nudipes genus:megascops" ; Times: 1
+	Query: "Quiscalus major institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Aburria institutioncode:LSUMZ" ; Times: 7
+	Query: "Heliangelus regalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cercomacra melanaria" ; Times: 3
+	Query: "LSUMZ 4425" ; Times: 3
+	Query: "53454" ; Times: 1
+	Query: "LSUMZ 4500" ; Times: 1
+	Query: "LSUMZ 25376" ; Times: 1
+	Query: "Pterodroma hasitata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Stercorarius parasiticus LSU" ; Times: 1
+	Query: "catalognumber:3632 institutioncode:LSUMZ" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "Charadrius melodus 1998" ; Times: 4
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "specificepithet:kennicotti genus:Megascops institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:uropygialis genus:Cacicus hastissue:1" ; Times: 1
+	Query: "catalognumber:10392 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "Nonnula sclateri" ; Times: 3
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:deliciosus genus:Machaeropterus hastissue:1" ; Times: 1
+	Query: "catalognumber:13050 institutioncode:LSUMZ" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "catalognumber:1867 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 16693" ; Times: 1
+	Query: "Lampornis country:&#34;Costa Rica&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "Charadrius melodus 2016" ; Times: 8
+	Query: "19720" ; Times: 2
+	Query: "Lampornis country:&#34;Costa Rica&#34; institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Odontorchilus institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:13126 institutioncode:LSUMZ" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "Glaucidium peruanum vntype:specimen genus:Glaucidium class:aves country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:14210 institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1367 download events in this period)
+Total number of records downloaded: 1236
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-07 ; Times: 3
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "genus:Megascops institutioncode:LSUMZ" ; Times: 1
+	Query: "Heliangelus regalis" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "Hemitriccus granadensis" ; Times: 1
+	Query: "vntype:specimen genus:Diglossa stateprovince:&#34;Cajamarca&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:kennicotti genus:megascops institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panterpe insignis" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:macrosphenus" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "specificepithet:pilaris genus:Atalotriccus" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Tamil" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Toxostoma institutioncode:LSUMZ" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Tachyphonus phoenicius" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "cercomacra melanaria" ; Times: 1
+	Query: "specificepithet:indicator genus:Indicator hastissue:1" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "vntype:specimen genus:Diglossa stateprovince:&#34;La Paz&#34; country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "Hemitriccus cinnamomeipectus" ; Times: 1
+
+
+End of report.
