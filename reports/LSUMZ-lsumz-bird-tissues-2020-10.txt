@@ -1,0 +1,345 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 247
+Number of records retrieved in searches: 1287
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 121
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 38
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 33
+	Country: Brazil ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 9
+	Date: 2020-10-08 ; Times: 15
+	Date: 2020-10-12 ; Times: 9
+	Date: 2020-10-13 ; Times: 43
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-11 ; Times: 12
+	Date: 2020-10-16 ; Times: 7
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-15 ; Times: 13
+	Date: 2020-10-23 ; Times: 37
+	Date: 2020-10-22 ; Times: 14
+	Date: 2020-10-21 ; Times: 8
+	Date: 2020-10-20 ; Times: 6
+	Date: 2020-10-27 ; Times: 17
+	Date: 2020-10-26 ; Times: 8
+	Date: 2020-10-25 ; Times: 5
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 7
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-29 ; Times: 3
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-07 ; Times: 8
+	Date: 2020-10-17 ; Times: 4
+	Date: 2020-10-06 ; Times: 3
+	Date: 2020-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "LSUMZ 3711" ; Times: 1
+	Query: "LSUMZ 10637" ; Times: 1
+	Query: "LSUMZ genibarbis 9150" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 1
+	Query: "scientificname:Corvus albus" ; Times: 3
+	Query: "41813" ; Times: 2
+	Query: "specificepithet:australis genus:Apteryx hastissue:1" ; Times: 1
+	Query: "LSUMZ 16105" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:coturnicops institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 81916" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "LSUMZ 27820" ; Times: 1
+	Query: "vntype:specimen specificepithet:suavissima family:pipridae" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "LSU 42764" ; Times: 2
+	Query: "LSUMZ 37711" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "scientificname:Ortalis erythroptera" ; Times: 1
+	Query: "LSUMZ 71831" ; Times: 1
+	Query: "picoides borealis hastissue:1" ; Times: 1
+	Query: "scientificname:Crax globulosa" ; Times: 1
+	Query: "loriculus amabilis" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "scientificname:Chamaepetes unicolor" ; Times: 2
+	Query: "scientificname:Pipile pipile" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 1
+	Query: "scientificname:Psittacula eupatria" ; Times: 1
+	Query: "66015" ; Times: 1
+	Query: "scientificname:Penelope dabbenei" ; Times: 1
+	Query: "scientificname:Crax alector" ; Times: 1
+	Query: "LSUMz 11774" ; Times: 1
+	Query: "C. psittacula" ; Times: 2
+	Query: "47132" ; Times: 1
+	Query: "Chamaepetes unicolor" ; Times: 1
+	Query: "LSUMZ 35972" ; Times: 1
+	Query: "LSU 4523" ; Times: 1
+	Query: "scientificname:Accipiter nisus" ; Times: 2
+	Query: "45084 institutioncode:LSUMZ" ; Times: 1
+	Query: "Porphyrio mantelli" ; Times: 1
+	Query: "lsumz 38423" ; Times: 2
+	Query: "specificepithet:leuconotus genus:Gorsachius hastissue:1" ; Times: 1
+	Query: "scientificname:Mitu tomentosum" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "LSUMZ 28018" ; Times: 1
+	Query: "LSU 33341" ; Times: 1
+	Query: "scientificname:Aburria aburri" ; Times: 1
+	Query: "vntype:specimen specificepithet:isidorei family:pipridae" ; Times: 1
+	Query: "vntype:specimen specificepithet:nattereri family:pipridae" ; Times: 2
+	Query: "LSUMZ 9597 iodopleura" ; Times: 1
+	Query: "LSUMZ 27682" ; Times: 2
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:owstoni genus:gallirallus hastissue:1" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 1
+	Query: "specificepithet:benghalensis genus:Rostratula hastissue:1" ; Times: 2
+	Query: "lsumz 43117" ; Times: 1
+	Query: "lsumz 43116" ; Times: 1
+	Query: "vntype:specimen specificepithet:philippensis family:Rallidae hastissue:1" ; Times: 3
+	Query: "specificepithet:rusticola genus:Scolopax hastissue:1" ; Times: 1
+	Query: "scientificname:Penelope superciliaris" ; Times: 1
+	Query: "scientificname:Pipile cumanensis" ; Times: 1
+	Query: "catalognumber:16243 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 16635" ; Times: 1
+	Query: "scientificname:Penelope barbata" ; Times: 1
+	Query: "scientificname:Penelope montagnii" ; Times: 1
+	Query: "LSUMZ 24732" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "Garrulax cineraceus" ; Times: 1
+	Query: "gallirallus hastissue:1" ; Times: 1
+	Query: "specificepithet:chalcopterus genus:Rhinoptilus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Apteryx hastissue:1" ; Times: 1
+	Query: "LSUMZ 46241" ; Times: 2
+	Query: "LSUMZ genibarbis 58336" ; Times: 1
+	Query: "scientificname:Buceros rhinoceros" ; Times: 15
+	Query: "(49341) institutioncode:LSUMZ" ; Times: 2
+	Query: "scientificname:Mitu mitu" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "62511" ; Times: 1
+	Query: "charadrius mongolus hastissue:1" ; Times: 1
+	Query: "scientificname:Ortalis motmot" ; Times: 1
+	Query: "vntype:specimen specificepithet:motmot genus:Ortalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinicauda class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSUMZ 11195" ; Times: 2
+	Query: "specificepithet:aurifrons genus:Melanerpes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:aurantiivertex genus:Heterocercus hastissue:1" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "26492 fuscater" ; Times: 2
+	Query: "scientificname:Ortalis canicollis" ; Times: 1
+	Query: "103517" ; Times: 1
+	Query: "Crax alberti" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 1
+	Query: "vntype:specimen specificepithet:owstoni family:Rallidae hastissue:1" ; Times: 1
+	Query: "60667 ONYCHORHYNCHUS" ; Times: 1
+	Query: "specificepithet:platensis genus:cistothorus stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:chalcopterus genus:Rhinoptilus hastissue:1" ; Times: 1
+	Query: "scientificname:Crax daubentoni" ; Times: 1
+	Query: "Turdus reevei" ; Times: 1
+	Query: "LSUMZ 9597" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "Nannopsittaca dachilleae vntype:specimen" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "2080 OXYRUNCUS" ; Times: 2
+	Query: "passerina amoena cyanea" ; Times: 1
+	Query: "54851" ; Times: 1
+	Query: "scientificname:Crax fasciolata" ; Times: 1
+	Query: "Turdus pelios" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "Nannopsittaca vntype:specimen" ; Times: 1
+	Query: "lsumz 9558" ; Times: 2
+	Query: "Ara glaucogularis vntype:specimen" ; Times: 1
+	Query: "catalognumber:10459 institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMZ 22687 MYIOBIUS" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "LSUMZ xenopipo 8071" ; Times: 1
+	Query: "LSU 4921" ; Times: 3
+	Query: "lsumz 39505" ; Times: 2
+	Query: "LSUMZ 35169" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 8
+	Query: "LSUMZ 48327" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 1
+	Query: "scientificname:Ortalis cinereiceps" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata family:pipridae country:&#34;brazil&#34; institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "malacoptila 42952" ; Times: 1
+	Query: "LSUMZ 33794" ; Times: 1
+	Query: "scientificname:Penelope purpurascens" ; Times: 1
+	Query: "genus:laterallus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:leuconotus genus:Gorsachius institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:laterallus institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMz 35897" ; Times: 1
+	Query: "lsumz 33988" ; Times: 1
+	Query: "specificepithet:smithii genus:Hirundo institutioncode:LSUMZ" ; Times: 1
+	Query: "philydor rufum" ; Times: 1
+	Query: "Turdus nigrescens" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:Chordeiles stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa hastissue:1" ; Times: 1
+	Query: "scientificname:Pipile cujubi" ; Times: 1
+	Query: "scientificname:Nothocrax urumutum" ; Times: 1
+	Query: "Heterocercus aurantiivertex" ; Times: 2
+	Query: "scientificname:Penelope albipennis" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "LSUMZ 8071" ; Times: 1
+	Query: "catalognumber:10197 institutioncode:LSUMZ" ; Times: 2
+	Query: "scientificname:Crax rubra" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "vntype:specimen specificepithet:australis family:Rallidae hastissue:1" ; Times: 1
+	Query: "leucopternis melanops" ; Times: 4
+	Query: "LSUMZ 39505" ; Times: 1
+	Query: "specificepithet:scandiacus genus:Bubo hastissue:1" ; Times: 1
+	Query: "scientificname:Crax alberti" ; Times: 1
+	Query: "specificepithet:superciliaris genus:Burhinus hastissue:1" ; Times: 1
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 1
+	Query: "Pithys castanea" ; Times: 2
+	Query: "LSUMZ 103569 coraya" ; Times: 1
+	Query: "passerina cyanea x amoena" ; Times: 2
+	Query: "scientificname:Anser cygnoides" ; Times: 1
+	Query: "Myiophobus roraimae" ; Times: 1
+	Query: "zaratornis stresemanni" ; Times: 1
+	Query: "LSUMZ 1828 coraya" ; Times: 1
+	Query: "scientificname:Penelopina nigra" ; Times: 1
+	Query: "LSUMZ 27363" ; Times: 1
+	Query: "Wetmorethraupis sterrhopteron" ; Times: 2
+	Query: "LSUMZ 35897" ; Times: 1
+	Query: "LSUMz 35483" ; Times: 1
+	Query: "anas superciliosa hastissue:1" ; Times: 1
+	Query: "scientificname:Penelope jacquacu" ; Times: 1
+	Query: "lsumz 24732" ; Times: 2
+	Query: "Turdus plebejus" ; Times: 1
+	Query: "scientificname:Pauxi pauxi" ; Times: 1
+	Query: "LSUMz 35566" ; Times: 1
+	Query: "saltatricula multicolor" ; Times: 2
+	Query: "scientificname:Chamaepetes goudotii" ; Times: 1
+	Query: "passerina amoena x cyanea" ; Times: 1
+	Query: "vntype:specimen family:Bucorvidae" ; Times: 2
+	Query: "Circus cinereus" ; Times: 1
+	Query: "42953" ; Times: 1
+	Query: "scientificname:Penelope obscura" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea stateprovince:&#34;florida&#34; institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1521 download events in this period)
+Total number of records downloaded: 20774
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Denmark ; Times: 3
+	Country: Kenya ; Times: 1
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 8
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 6
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 6
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 3
+	Date: 2020-10-03 ; Times: 5
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-30 ; Times: 3
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-15 ; Times: 6
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:nattereri family:pipridae" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "genus:Odontophorus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sterna" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 2
+	Query: "anthus furcatus" ; Times: 1
+	Query: "aves paraguay" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "passerina amoena cyanea" ; Times: 2
+	Query: "genus:chloropsis (alcohol OR alc OR ethanol OR ETOH OR fluid OR wet OR whole)" ; Times: 1
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata family:pipridae" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "vntype:specimen specificepithet:suavissima family:pipridae" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:lactea genus:Amazilia" ; Times: 1
+	Query: "vntype:specimen specificepithet:serena family:pipridae" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ammodramus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "genus:Tyrannus institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "(Diglossa) hastissue:1" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "Pseudocolaptes boissonneautii" ; Times: 1
+	Query: "genus:thryomanes hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:fregata" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "Dromaiidae" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "genus:Rynchops stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Calcariidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:coeruleocapilla family:pipridae" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 1
+	Query: "family:irenidae (alcohol OR alc OR ethanol OR ETOH OR fluid OR wet OR whole)" ; Times: 1
+	Query: "class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Bucorvidae" ; Times: 1
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:isidorei family:pipridae" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "picoides tridactylus vntype:specimen hastissue:1" ; Times: 1
+
+
+End of report.
