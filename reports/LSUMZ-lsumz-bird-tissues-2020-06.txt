@@ -1,0 +1,211 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 350
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 40
+	Country: Peru ; Times: 27
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 12
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Dominican Republic ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 15
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 25
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-01 ; Times: 13
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-10 ; Times: 31
+	Date: 2020-06-11 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:edwardsi genus:Bangsia hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:calendula genus:Regulus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "LSUMZ 19402" ; Times: 1
+	Query: "genus:Machaeropterus hastissue:1" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "specificepithet:nitens genus:Malimbus hastissue:1" ; Times: 2
+	Query: "LSUMZ 19407" ; Times: 1
+	Query: "Sporophila hypochroma" ; Times: 1
+	Query: "specificepithet:alberti order:galliformes" ; Times: 1
+	Query: "specificepithet:fonsecai genus:Acrobatornis" ; Times: 1
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "Anas luzonica" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Ploceus hastissue:1" ; Times: 1
+	Query: "specificepithet:petrosus order:galliformes" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Sporophila hastissue:1" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "LSUMZ 19398" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "specificepithet:hypochroma genus:Sporophila" ; Times: 1
+	Query: "specificepithet:erythroptera order:galliformes" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "Sporophila ruficollis" ; Times: 4
+	Query: "specificepithet:edwardsi genus:Bangsia" ; Times: 1
+	Query: "genus:hARPAGUS country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "genus:Orthogonys specificepithet:chloricterus" ; Times: 2
+	Query: "LSUMZ 25504" ; Times: 1
+	Query: "LSUMZ 25505" ; Times: 1
+	Query: "LSUMZ 25502" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "LSUMZ 25501" ; Times: 1
+	Query: "specificepithet:cinctus order:galliformes" ; Times: 1
+	Query: "specificepithet:sanguiniceps order:galliformes" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "LSUMZ 25508" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "LSUMZ 19373" ; Times: 1
+	Query: "LSUMZ 19376" ; Times: 1
+	Query: "LSUMZ 19377" ; Times: 1
+	Query: "LSUMZ 19374" ; Times: 1
+	Query: "LSUMZ 19375" ; Times: 1
+	Query: "Aythya novaeseelandiae" ; Times: 2
+	Query: "LSUMZ 19412" ; Times: 1
+	Query: "LSUMZ 19378" ; Times: 1
+	Query: "LSUMZ 19379" ; Times: 1
+	Query: "LSUMZ 19416" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "specificepithet:pipile order:galliformes" ; Times: 1
+	Query: "specificepithet:swainsoni genus:myiarchus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 2
+	Query: "Picumnus varzeae" ; Times: 1
+	Query: "buteo ridgwayi" ; Times: 5
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "Garrulax sannio hastissue:1" ; Times: 2
+	Query: "Batis senegalensis" ; Times: 2
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Acrobatornis fonsecai" ; Times: 1
+	Query: "Anas falcata" ; Times: 6
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Cistothorus institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 25503" ; Times: 1
+	Query: "specificepithet:mustelina genus:Hylocichla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "LSUMZ 19387" ; Times: 1
+	Query: "LSUMZ 19386" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 2
+	Query: "LSUMZ 19384" ; Times: 1
+	Query: "LSUMZ 19383" ; Times: 1
+	Query: "LSUMZ 19382" ; Times: 2
+	Query: "LSUMZ 19381" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "specificepithet:erythrorhyncha order:galliformes" ; Times: 1
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:Sturnus institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:452 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "specificepithet:unicolor order:galliformes" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "LSUMZ 19385" ; Times: 2
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 474 download events in this period)
+Total number of records downloaded: 1139
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 39
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 4
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-02 ; Times: 5
+	Date: 2020-06-10 ; Times: 52
+	Date: 2020-06-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:calendula genus:Regulus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "specificepithet:montagnii order:galliformes" ; Times: 1
+	Query: "Sporophila hypochroma" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "specificepithet:alberti order:galliformes" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:asiatica order:galliformes" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 1
+	Query: "specificepithet:motmot order:galliformes" ; Times: 1
+	Query: "specificepithet:pipile order:galliformes" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "specificepithet:unicolor order:galliformes" ; Times: 1
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 1
+	Query: "specificepithet:fusca genus:Florisuga" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:erythroptera order:galliformes" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:purpurascens order:galliformes" ; Times: 1
+	Query: "specificepithet:douglasii order:galliformes" ; Times: 1
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:leucopogon order:galliformes" ; Times: 1
+	Query: "buteo ridgwayi" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "specificepithet:sanguiniceps order:galliformes" ; Times: 1
+	Query: "Acrobatornis fonsecai" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "specificepithet:cinereiceps order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Cistothorus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:erythrorhyncha order:galliformes" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 2
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "specificepithet:cinctus genus:Rhynchortyx" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 2
+	Query: "vntype:specimen specificepithet:vulgaris genus:Sturnus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:hypochroma genus:Sporophila" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "specificepithet:fonsecai genus:Acrobatornis" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:LSUMZ" ; Times: 1
+
+
+End of report.
