@@ -1,0 +1,278 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 194
+Number of records retrieved in searches: 891
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 6
+	Country: Ireland ; Times: 51
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 62
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 2
+	Country: Peru ; Times: 11
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 6
+	Date: 2020-07-20 ; Times: 25
+	Date: 2020-07-27 ; Times: 4
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-01 ; Times: 6
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-02 ; Times: 13
+	Date: 2020-07-04 ; Times: 4
+	Date: 2020-07-07 ; Times: 30
+	Date: 2020-07-06 ; Times: 13
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-29 ; Times: 5
+	Date: 2020-07-28 ; Times: 13
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 9
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 16
+	Date: 2020-07-14 ; Times: 7
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-22 ; Times: 14
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "Attila citriniventris" ; Times: 1
+	Query: "78725" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "LSUMz 39495" ; Times: 2
+	Query: "LSUMz 39494" ; Times: 2
+	Query: "LSU 34904" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:euphonia institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "LSUMz 34203" ; Times: 2
+	Query: "LSUMz 50353" ; Times: 2
+	Query: "Attila torridus" ; Times: 1
+	Query: "specificepithet:imitans genus:euphonia institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMz Psarocolius wagleri" ; Times: 1
+	Query: "Lanio leucothorax" ; Times: 2
+	Query: "LSUMZ 26989" ; Times: 2
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 1
+	Query: "catalognumber:10198 institutioncode:LSUMZ" ; Times: 3
+	Query: "LSUMz 1414 aves" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "specificepithet:campestris genus:Uropelia institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 21255" ; Times: 2
+	Query: "specificepithet:sanctaecatarinae genus:Megascops country:&#34;Argentina&#34;" ; Times: 1
+	Query: "genus:machetornis" ; Times: 1
+	Query: "27204 euplectes" ; Times: 2
+	Query: "LSU 57113" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "LSUMz 34987" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:luteicapilla genus:euphonia institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMz 45190" ; Times: 2
+	Query: "specificepithet:minuta genus:euphonia institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;Alajuela&#34; country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "catalognumber:19863 institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:chrysonotus genus:Cacicus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:musica genus:Euphonia country:&#34;Puerto Rico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucothorax genus:Lanio" ; Times: 1
+	Query: "LSUMz 34228" ; Times: 2
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "genus:Euphonia catalognumber:27271" ; Times: 1
+	Query: "specificepithet:imitans genus:Euphonia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia institutioncode:LSUMZ" ; Times: 2
+	Query: "52151" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "LSUMz 36313" ; Times: 2
+	Query: "Corvus cryptoleucus hastissue:1" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "specificepithet:affinis genus:euphonia hastissue:1" ; Times: 2
+	Query: "LSUMz 36378" ; Times: 2
+	Query: "LSUMz 36425" ; Times: 2
+	Query: "specificepithet:haemorrhous genus:Cacicus hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:dolospingus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:uropygialis genus:Cacicus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:chrysonotus genus:Cacicus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMz 11711" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "LSUMz flavinuchus 566" ; Times: 1
+	Query: "LSUMz 11802" ; Times: 2
+	Query: "LSUMz 5694" ; Times: 2
+	Query: "specificepithet:laniirostris genus:Euphonia institutioncode:LSUMZ" ; Times: 2
+	Query: "Crypturellus strigulosus" ; Times: 1
+	Query: "LSUMz 1414" ; Times: 1
+	Query: "specificepithet:angustifrons genus:Psarocolius hastissue:1" ; Times: 1
+	Query: "specificepithet:luteicapilla genus:euphonia institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+	Query: "specificepithet:mesochrysa genus:euphonia institutioncode:LSUMZ" ; Times: 1
+	Query: "Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "geocerthia" ; Times: 1
+	Query: "catalognumber:26492 institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Xenoglaux loweryi" ; Times: 2
+	Query: "specificepithet:jamaicensis genus:Laterallus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Megascops sanctaecatarinae" ; Times: 1
+	Query: "specificepithet:callophrys genus:Chlorophonia institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "LSUMz 27104" ; Times: 2
+	Query: "Contopus virens Peru" ; Times: 1
+	Query: "Balaeniceps" ; Times: 2
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 1
+	Query: "LSUMz 52674" ; Times: 2
+	Query: "LSUMz 36351" ; Times: 2
+	Query: "catalognumber:11778 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "Pavo muticus" ; Times: 2
+	Query: "LSUMz 45096" ; Times: 2
+	Query: "Todiramphus chloris Vanuatu" ; Times: 1
+	Query: "specificepithet:anneae genus:euphonia institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:36788 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "vntype:specimen specificepithet:grossus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "LSUMz 36320" ; Times: 2
+	Query: "LSUMz 23321" ; Times: 2
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "Crypturellus transfasciatus" ; Times: 1
+	Query: "LSUMz 36341" ; Times: 2
+	Query: "27271 specificepithet:affinis genus:euphonia institutioncode:LSUMZ" ; Times: 1
+	Query: "gbifdatasetid:fc003253-5eee-414e-84c8-817e12bdb708" ; Times: 1
+	Query: "Rukia" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius" ; Times: 1
+	Query: "LSUMZ 15393" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte institutioncode:LSUMZ" ; Times: 2
+	Query: "LSU 36183" ; Times: 1
+	Query: "catalognumber:10197 institutioncode:LSUMZ" ; Times: 2
+	Query: "LSU Todiramphus Vanuatu" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Pseudasthenes cactorum" ; Times: 3
+	Query: "Euphonia imitans" ; Times: 3
+	Query: "LSUMz flavinuchus" ; Times: 1
+	Query: "Todiramphus farquhari" ; Times: 1
+	Query: "specificepithet:bifasciatus genus:Psarocolius hastissue:1" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "larus Ichthyaetus" ; Times: 2
+	Query: "specificepithet:plumbea genus:euphonia institutioncode:LSUMZ" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "Campylorhynchus fasciatus hastissue:1" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "LSUMz 27097" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "specificepithet:anneae genus:Euphonia institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "genus:Euphonia institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "28445 genus:euphonia institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMz 51038" ; Times: 2
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "Pseudasthenes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 940 download events in this period)
+Total number of records downloaded: 136178
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Peru ; Times: 8
+	Country: South Korea ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 2
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "Xenoglaux loweryi" ; Times: 1
+	Query: "class:aves institutioncode:LSUMZ" ; Times: 2
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "heilprini" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+
+
+End of report.
