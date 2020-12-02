@@ -1,0 +1,414 @@
+Report for Institution Code LSUMZ, Resource lsumz-bird-tissues
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 365
+Number of records retrieved in searches: 3624
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 240
+	Country: Netherlands ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 6
+	Country: Singapore ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 36
+	Country: United Kingdom ; Times: 29
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Brazil ; Times: 17
+	Country: Cyprus ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 8
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-22 ; Times: 9
+	Date: 2020-11-23 ; Times: 31
+	Date: 2020-11-24 ; Times: 9
+	Date: 2020-11-25 ; Times: 12
+	Date: 2020-11-08 ; Times: 19
+	Date: 2020-11-09 ; Times: 44
+	Date: 2020-11-06 ; Times: 10
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 5
+	Date: 2020-11-05 ; Times: 16
+	Date: 2020-11-02 ; Times: 39
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-01 ; Times: 11
+	Date: 2020-11-26 ; Times: 11
+	Date: 2020-11-19 ; Times: 9
+	Date: 2020-11-18 ; Times: 9
+	Date: 2020-11-30 ; Times: 11
+	Date: 2020-11-15 ; Times: 7
+	Date: 2020-11-14 ; Times: 9
+	Date: 2020-11-17 ; Times: 15
+	Date: 2020-11-16 ; Times: 14
+	Date: 2020-11-11 ; Times: 6
+	Date: 2020-11-10 ; Times: 23
+	Date: 2020-11-13 ; Times: 24
+	Date: 2020-11-12 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Megalaima australis hastissue:1" ; Times: 1
+	Query: "specificepithet:versicolor genus:Eubucco institutioncode:LSUMZ" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "lsumz 5223 aves" ; Times: 1
+	Query: "genus:Aratinga hastissue:1" ; Times: 1
+	Query: "genus:cacomantis sonneratii hastissue:1" ; Times: 1
+	Query: "genus:halcyon coromanda hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:gujanensis genus:odontophorus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "lsumz 5223" ; Times: 1
+	Query: "specificepithet:amicta institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMZ 12356" ; Times: 1
+	Query: "63396" ; Times: 1
+	Query: "genus:ABEILLIA hastissue:1" ; Times: 1
+	Query: "genus:Megalaima eximia hastissue:1" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Porphyrio martinica stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Hippolais polyglotta" ; Times: 1
+	Query: "specificepithet:stellatus genus:Odontophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:pelagica genus:chaetura stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:malacocincla sepiaria hastissue:1" ; Times: 1
+	Query: "specificepithet:pelagica genus:chaetura institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "LSU 78748 Ceyx" ; Times: 1
+	Query: "genus:Alcedo meninting hastissue:1" ; Times: 1
+	Query: "Alca torda institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:fuscatus genus:cnemotriccus country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Stachyris nigricollis hastissue:1" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "genus:nyctibius institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:erithacus genus:Ceyx hastissue:1" ; Times: 1
+	Query: "50647" ; Times: 1
+	Query: "genus:Ficedula hyperythra hastissue:1" ; Times: 1
+	Query: "genus: Stachyris rufifrons hastissue:1" ; Times: 1
+	Query: "specificepithet:colubris genus:archilochus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus: Alcippe brunneicauda hastissue:1" ; Times: 1
+	Query: "anthus bogotensis LSUMZ" ; Times: 2
+	Query: "1496 sturnella" ; Times: 1
+	Query: "Heliangelus institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:14404 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus: Rhinomyias umbratilis hastissue:1" ; Times: 1
+	Query: "specificepithet:yucatanensis genus:Amazilia institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "LSUMZ 12415" ; Times: 2
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Ixobrychus exilis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "51561" ; Times: 1
+	Query: "Siptornopsis hypochondriacus" ; Times: 1
+	Query: "genus:Malacopteron affine hastissue:1" ; Times: 1
+	Query: "genus:Balaeniceps hastissue:1" ; Times: 1
+	Query: "lsumz 44940" ; Times: 2
+	Query: "specificepithet:auricollis hastissue:1" ; Times: 1
+	Query: "LSU 15337" ; Times: 1
+	Query: "genus:Dicrurus paradiseus hastissue:1" ; Times: 1
+	Query: "LSU 47231 Ceyx" ; Times: 1
+	Query: "specificepithet:albus genus:Eudocimus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Palmeria lsu" ; Times: 1
+	Query: "catalognumber:51695" ; Times: 2
+	Query: "Paradoxornis lsu" ; Times: 1
+	Query: "genus:Prionochilus thoracicus hastissue:1" ; Times: 1
+	Query: "Selasphorus scintilla institutioncode:LSUMZ" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "Pyrrhura orcesi" ; Times: 1
+	Query: "Cacomantis sonneratii" ; Times: 1
+	Query: "LSU 51025 Ceyx" ; Times: 1
+	Query: "LSUMZ 42926" ; Times: 1
+	Query: "genus:Malacopteron cinereum hastissue:1" ; Times: 1
+	Query: "genus:Brachypteryx montana hastissue:1" ; Times: 1
+	Query: "specificepithet:cujubi genus:Pipile class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Rhynchopsitta hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:odontophorus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Prionochilus maculatus hastissue:1" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "Nesospingus lsu" ; Times: 1
+	Query: "specificepithet:dactylatra genus:sula institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:rufidorsa genus:ceyx hastissue:1" ; Times: 1
+	Query: "hypogramma hypogrammicum hastissue:1" ; Times: 1
+	Query: "genus:Enicurus ruficapillus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:philippensis family:Rallidae hastissue:1" ; Times: 4
+	Query: "genus:Anthreptes simplex hastissue:1" ; Times: 1
+	Query: "genus:Stachyris erythroptera hastissue:1" ; Times: 1
+	Query: "specificepithet:variegata genus:Sula hastissue:1" ; Times: 1
+	Query: "genus:Dicrurus hottentottus hastissue:1" ; Times: 1
+	Query: "genus: Garrulax mitratus hastissue:1" ; Times: 1
+	Query: "catalognumber:16538 institutioncode:LSUMZ" ; Times: 7
+	Query: "genus:Anthreptes malacensis hastissue:1" ; Times: 1
+	Query: "hydrochous" ; Times: 1
+	Query: "LSUMZ 21781" ; Times: 2
+	Query: "specificepithet:palmarum family:Parulidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:rhynochetos institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:rynchops institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:sasia abnormis hastissue:1" ; Times: 1
+	Query: "genus:Diglossa country:&#34;Ecuador&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:branickii hastissue:1" ; Times: 1
+	Query: "genus:upupa institutioncode:LSUMZ" ; Times: 2
+	Query: "&#34;harpia harpyja&#34; &#34;Peru&#34;" ; Times: 1
+	Query: "(Pelecanus) institutioncode:LSUMZ" ; Times: 25
+	Query: "specificepithet:viridis genus:Trogon institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:phaps hastissue:1" ; Times: 1
+	Query: "Pityriasis lsu" ; Times: 1
+	Query: "genus:ceyx rufidorsa hastissue:1" ; Times: 1
+	Query: "specificepithet:sittoides genus:Diglossa hastissue:1" ; Times: 2
+	Query: "genus:Trichastoma rostratum hastissue:1" ; Times: 1
+	Query: "genus:Aethopyga temminckii hastissue:1" ; Times: 1
+	Query: "Garrulax cineraceus" ; Times: 1
+	Query: "LSU 58557 Ceyx" ; Times: 1
+	Query: "Phylloscopus fuscatus" ; Times: 1
+	Query: "51046" ; Times: 1
+	Query: "genus:Pellorneum capistratum hastissue:1" ; Times: 1
+	Query: "specificepithet:fasciata genus:Patagioenas hastissue:1" ; Times: 1
+	Query: "LSU 74725 Ceyx" ; Times: 1
+	Query: "specificepithet:personatus genus:Trogon institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "47889" ; Times: 1
+	Query: "genus:Malacopteron albogulare hastissue:1" ; Times: 1
+	Query: "LSU 38586 Ceyx" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "Phoenicurus auroreus" ; Times: 1
+	Query: "arachnothera longirostra institutioncode:LSUMZ" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "genus: Trichastoma bicolor hastissue:1" ; Times: 1
+	Query: "specificepithet:huhula genus:ciccaba institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Polystictus basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:rynchops institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Harpactes duvaucelii hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Pipile class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSU 12415" ; Times: 1
+	Query: "genus:Anodorhynchus hastissue:1" ; Times: 1
+	Query: "genus:Orthotomus ruficeps hastissue:1" ; Times: 1
+	Query: "catalognumber:3462 institutioncode:LSUMZ" ; Times: 1
+	Query: "lsumz 71577" ; Times: 1
+	Query: "specificepithet:scops genus:Otus hastissue:1" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "LSU 51088 Ceyx" ; Times: 1
+	Query: "LSUMZ 26033" ; Times: 1
+	Query: "specificepithet:gilvicollis genus:micrastur institutioncode:LSUMZ" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "specificepithet:pelagica genus:chaetura institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 7851" ; Times: 3
+	Query: "specificepithet:merulinus genus:cacomantis hastissue:1" ; Times: 1
+	Query: "genus:Harpactes oreskios hastissue:1" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Chlorothraupis hastissue:1" ; Times: 1
+	Query: "specificepithet:tahitica genus:Hirundo institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Alcedo euryzona hastissue:1" ; Times: 1
+	Query: "genus:Stachyris rufifrons hastissue:1" ; Times: 1
+	Query: "genus:megalaima hastissue:1" ; Times: 1
+	Query: "specificepithet:tzacatl genus:Amazilia institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Rhipidura albicollis hastissue:1" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "specificepithet:momota institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMZ 33794" ; Times: 1
+	Query: "Dendrocygna arcuata" ; Times: 2
+	Query: "specificepithet:troglodytes genus:Troglodytes country:&#34;germany&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Ficedula mugimaki hastissue:1" ; Times: 1
+	Query: "genus:rhynochetos institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Malacopteron magnirostre hastissue:1" ; Times: 1
+	Query: "genus:Blythipicus rubiginosus hastissue:1" ; Times: 1
+	Query: "specificepithet:pileatus genus:Dryocopus stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 51075 Ceyx" ; Times: 1
+	Query: "genus:Malacopteron magnum hastissue:1" ; Times: 1
+	Query: "genus:Trichastoma malaccense hastissue:1" ; Times: 1
+	Query: "genus: napothera crassa hastissue:1" ; Times: 1
+	Query: "genus:terpsiphone paradisi hastissue:1" ; Times: 1
+	Query: "Tachycineta leucopyga" ; Times: 1
+	Query: "genus:ammodramus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:erithacus genus:ceyx hastissue:1" ; Times: 3
+	Query: "LSUMZ 28571 trogon" ; Times: 1
+	Query: "specificepithet:finschi hastissue:1" ; Times: 1
+	Query: "genus:Rhipidura perlata hastissue:1" ; Times: 1
+	Query: "LSU 57040 Ceyx" ; Times: 1
+	Query: "vntype:specimen genus:PIPILE class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSU 57065 Ceyx" ; Times: 1
+	Query: "vntype:specimen specificepithet:stellatus genus:odontophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:habia hastissue:1" ; Times: 1
+	Query: "genus:Cacomantis merulinus hastissue:1" ; Times: 1
+	Query: "CM Apodidae Apus" ; Times: 1
+	Query: "genus: Seicercus montis hastissue:1" ; Times: 1
+	Query: "LSU 47161 Ceyx" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "genus:grus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "harpia harpyja" ; Times: 2
+	Query: "specificepithet:azara genus:Pteroglossus institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 47126 Ceyx" ; Times: 1
+	Query: "catalognumber:2772 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:sagittarius institutioncode:LSUMZ" ; Times: 3
+	Query: "genus:Stachyris leucotis hastissue:1" ; Times: 1
+	Query: "genus:Pipile class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:9290 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 7561" ; Times: 1
+	Query: "genus:picus mentalis hastissue:1" ; Times: 1
+	Query: "lsumz 48487" ; Times: 1
+	Query: "genus:Cymbirhynchus macrorhynchos hastissue:1" ; Times: 1
+	Query: "genus:Oriolus cruentus hastissue:1" ; Times: 1
+	Query: "genus:Neophema hastissue:1" ; Times: 1
+	Query: "specificepithet:icterotis hastissue:1" ; Times: 2
+	Query: "harpyja" ; Times: 1
+	Query: "genus: napothera epilepidota hastissue:1" ; Times: 1
+	Query: "LSUMZ 7638" ; Times: 1
+	Query: "LSUMZ 7561 trogon" ; Times: 1
+	Query: "genus:Periporphyrus hastissue:1" ; Times: 1
+	Query: "lsumz 47075" ; Times: 2
+	Query: "genus:Dicaeum chrysorrheum hastissue:1" ; Times: 1
+	Query: "specificepithet:flava genus:piranga hastissue:1" ; Times: 1
+	Query: "Selasphorus ardens institutioncode:LSUMZ" ; Times: 1
+	Query: "Hypsipetes amaurotis" ; Times: 1
+	Query: "Arachnothera longirostra hastissue:1" ; Times: 1
+	Query: "genus:Prionochilus xanthopygius hastissue:1" ; Times: 1
+	Query: "catalognumber:13341 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 7607" ; Times: 1
+	Query: "specificepithet:erythrogenys genus:Aratinga hastissue:1" ; Times: 1
+	Query: "LSUMZ 1547" ; Times: 1
+	Query: "gbifdatasetid:fc003253-5eee-414e-84c8-817e12bdb708" ; Times: 1
+	Query: "specificepithet:vulcani genus:junco institutioncode:LSUMZ" ; Times: 1
+	Query: "geocerthia" ; Times: 1
+	Query: "genus:Culicicapa ceylonensis hastissue:1" ; Times: 1
+	Query: "lsumz 47080" ; Times: 1
+	Query: "vntype:specimen specificepithet:owstoni genus:gallirallus hastissue:1" ; Times: 1
+	Query: "genus:buceros institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "lsumz 47332" ; Times: 2
+	Query: "LSUMZ 103505" ; Times: 1
+	Query: "specificepithet:flavirostris genus:pteroglossus institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 51008 Ceyx" ; Times: 1
+	Query: "specificepithet:aura genus:cathartes institutioncode:LSUMZ" ; Times: 1
+	Query: "ceyx rufidorsa" ; Times: 1
+	Query: "lsumz 34397" ; Times: 2
+	Query: "vntype:specimen specificepithet:australis family:Rallidae hastissue:1" ; Times: 1
+	Query: "lsumz 57237" ; Times: 2
+	Query: "LSUMZ antilophia" ; Times: 1
+	Query: "60802" ; Times: 1
+	Query: "catalognumber:12624 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:20192 institutioncode:LSUMZ" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Kentucky&#34; hastissue:1" ; Times: 1
+	Query: "selasphorus ardens" ; Times: 2
+	Query: "LSU 57033 Ceyx" ; Times: 1
+	Query: "specificepithet:rubica genus:Habia hastissue:1" ; Times: 1
+	Query: "Acrocephalus bistrigiceps" ; Times: 1
+	Query: "genus: cyornis concretus hastissue:1" ; Times: 1
+	Query: "catalognumber:36646 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Harpactes diardii hastissue:1" ; Times: 1
+	Query: "genus:Stachyris maculata hastissue:1" ; Times: 1
+	Query: "genus:Aethopyga siparaja hastissue:1" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "genus:Stachyris nigriceps hastissue:1" ; Times: 2
+	Query: "genus:Pachycephala cinerea hastissue:1" ; Times: 1
+	Query: "genus:Pomatorhinus montanus hastissue:1" ; Times: 1
+	Query: "genus:phegornis hastissue:1" ; Times: 1
+	Query: "genus:Hypothymis azurea hastissue:1" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "rhynochetos jubatus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Tinamus institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:14406 institutioncode:LSUMZ" ; Times: 2
+	Query: "Grallaricula peruviana" ; Times: 3
+	Query: "genus:Stachyris poliocephala hastissue:1" ; Times: 1
+	Query: "catalognumber:1332 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 3645" ; Times: 1
+	Query: "genus:sitta institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:rubra genus:piranga hastissue:1" ; Times: 2
+	Query: "LSUMZ 7385 trogon" ; Times: 1
+	Query: "genus:Megalaima mystacophanos hastissue:1" ; Times: 1
+	Query: "genus:Caryothraustes hastissue:1" ; Times: 1
+	Query: "genus:rhinopomastus institutioncode:LSUMZ" ; Times: 2
+	Query: "scientificname:Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:icterus genus:icterus hastissue:1" ; Times: 2
+	Query: "specificepithet:stygius genus:Asio institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Orthotomus sericeus hastissue:1" ; Times: 2
+	Query: "catalognumber:56576" ; Times: 1
+	Query: "specificepithet:merula genus:Turdus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:nebouxii genus:Sula hastissue:1" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:anodorhynchus institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 26386" ; Times: 2
+	Query: "LSUMZ 43034" ; Times: 1
+	Query: "genus: Garrulax palliatus hastissue:1" ; Times: 1
+	Query: "Psalidoprocne pristoptera" ; Times: 1
+	Query: "LSU 58647 Ceyx" ; Times: 1
+	Query: "Pyrrhura albipectus" ; Times: 2
+	Query: "lsumz 39532" ; Times: 2
+	Query: "genus:Dicaeum trigonostigma hastissue:1" ; Times: 2
+	Query: "Rallus elegans stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Oenanthe isabellina" ; Times: 1
+	Query: "specificepithet:humeralis genus:Diglossa hastissue:1" ; Times: 1
+	Query: "Rukia lsu" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 842 download events in this period)
+Total number of records downloaded: 64648
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 37
+	Country: Jordan ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-09 ; Times: 7
+	Date: 2020-11-07 ; Times: 2
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-03 ; Times: 7
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-10 ; Times: 12
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-23 ; Times: 4
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Polystictus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:fc003253-5eee-414e-84c8-817e12bdb708" ; Times: 1
+	Query: "vntype:specimen specificepithet:fischeri genus:Somateria" ; Times: 1
+	Query: "Kuwait" ; Times: 2
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "ceyx rufidorsa" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Porphyrio martinica stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gnoma genus:Glaucidium" ; Times: 1
+	Query: "genus:Crypturellus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "(Pelecanus) institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 2
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "specificepithet:stelleri genus:cyanocitta country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:schoeniclus genus:Emberiza hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus" ; Times: 2
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "vntype:specimen specificepithet:Gnoma genus:Glaucidium" ; Times: 2
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "specificepithet:atricilla genus:Larus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albus genus:Eudocimus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "specificepithet:icterus genus:icterus hastissue:1" ; Times: 1
+	Query: "Ixobrychus exilis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "genus:Crypturellus institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+
+
+End of report.
